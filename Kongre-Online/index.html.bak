@@ -2,6 +2,360 @@
   <head>
     <meta http-equiv="content-type" content="text/html; charset=windows-1252">
   </head>
-  <body><br>
+  <body>
+    <h2 data-pm-slice="0 0 []" data-en-clipboard="true"><b><i><span style="color:rgb(252, 18, 51);">"Kongre
+            Online"</span></i></b></h2>
+    <h3>Kongre Yönetimi ve Bilgi Sistemi</h3>
+    <h3>Yaz&#305;l&#305;m Projesi Tan&#305;t&#305;m&#305;</h3>
+    <div><br>
+    </div>
+    <div>Bir Kongreyi yönetebilecek, çekip çevirebilecek, kolayl&#305;k sa&#287;layacak ve
+      bugün için yap&#305;lamayan &#351;eyleri yapabilecek bir program&#305;n yaz&#305;lmas&#305;.</div>
+    <div><br>
+    </div>
+    <div>Bu proje bir okulda bir lisansüstü dersin dönem projesidir. &#304;&#351;e
+      yarayabilecek, bir ümit verebilecek durumu olursa, devam da edebilir. Bunu
+      birlikte görece&#287;iz.</div>
+    <div><br>
+    </div>
+    <div>11 gün sonra, elimizde &#351;unlar olacakt&#305;r: </div>
+    <ul>
+      <li>
+        <div><b><i><span style="color:rgb(252, 18, 51);">&#304;nternet </span></i></b>üzerinden
+          çal&#305;&#351;an bir <b><i>minyatür </i></b>versiyonu elimizde olacakt&#305;r.</div>
+      </li>
+      <li>
+        <div><b><i><span style="color:rgb(252, 18, 51);">Cep telefonu</span></i></b>
+          programlar&#305;n&#305;n da yap&#305;larak eklenmesi için gerekli olan sunucu
+          altyap&#305;s&#305; da haz&#305;rlanm&#305;&#351; olacakt&#305;r. F&#305;rsat olursa, cep telefonu ile
+          çok basit bir demo da eklenmeye çal&#305;&#351;&#305;lacakt&#305;r. Fakat cep telefonu &#351;u
+          anda bu dersin konusu de&#287;il. Fakat, cep telefonu bugün &#351;artt&#305;r!</div>
+      </li>
+    </ul>
+    <div><br>
+    </div>
+    <hr>
+    <div><br>
+    </div>
+    <h3>Bu "Kongre Online" Yaz&#305;l&#305;m Sistemini kimler kullanabilecektir?</h3>
+    <h3><br>
+    </h3>
+    <div>Siyasi Partiler</div>
+    <div><br>
+    </div>
+    <div>Odalar</div>
+    <ul>
+      <li>
+        <div>Ticaret Odalar&#305;</div>
+      </li>
+      <li>
+        <div>Mühendislik Odalar&#305;</div>
+      </li>
+      <ul>
+        <li>
+          <div>Bilgisayar Mühendisleri Odas&#305;</div>
+        </li>
+      </ul>
+      <li>
+        <div>Benzeri Ba&#351;ka Odalar</div>
+      </li>
+    </ul>
+    <div><br>
+    </div>
+    <div>Vak&#305;flar?</div>
+    <div>Dernekler?</div>
+    <div>(Türkiye çap&#305;nda, illere göre olu&#351;mu&#351; vak&#305;flar, dernekler var m&#305;d&#305;r?)</div>
+    <div><br>
+    </div>
+    <div>&#304;lla ki bütün Türkiye çap&#305;nda olu&#351;mu&#351; bir dernek/vak&#305;f da olmas&#305; &#351;art
+      de&#287;il!</div>
+    <div><br>
+    </div>
+    <div>Sadece, mesela, &#304;stanbul'da bulunan bir dernek de olabilir.</div>
+    <div><br>
+    </div>
+    <div>Yeter ki...</div>
+    <div><br>
+    </div>
+    <div>Kongre yaps&#305;n.</div>
+    <div><br>
+    </div>
+    <div>Kongresinde farkl&#305; fikirler tart&#305;&#351;&#305;lmas&#305; ihtiyac&#305; olsun, tart&#305;&#351;&#305;ls&#305;n.</div>
+    <div><br>
+    </div>
+    <div>Kongresinde adaylar olsun, bu adaylar Kongreden 2 hafta öncesinden
+      itibaren, internet üzerinden delegelere, üyelere kendilerini tan&#305;tmak
+      istesinler, onlardan gelen sorular&#305; cevaplamak istesinler, müsbet veya
+      menfi de&#287;erlendirmeleri cevaplamak istesinler.</div>
+    <div><br>
+    </div>
+    <div>Kongresinde seçimler olsun.</div>
+    <div><br>
+    </div>
+    <hr>
+    <div><br>
+    </div>
+    <div>Bu 11 günde, nas&#305;l bir program ç&#305;kacak?!</div>
+    <div><br>
+    </div>
+    <div>MVP - Minimum Viable Product ifadesini duymu&#351;sunuzdur.</div>
+    <div><br>
+    </div>
+    <div>Bu program, böyle de olmayacak.</div>
+    <div>Ya neyle olacak?!</div>
+    <div><br>
+    </div>
+    <div>"Minimum <b><i><span style="color:rgb(252, 18, 51);">Minyatür </span></i></b>Product"</div>
+    <div>... olacak!</div>
+    <div><br>
+    </div>
+    <div>Program...</div>
+    <div><b><i>"Minyatür"</i></b> olacak.</div>
+    <div><b><i>"Viable" </i></b>olmayacak!</div>
+    <div><br>
+    </div>
+    <div>Viable, hayatiyetini elde edip devam ettirebilecek kadar da olsa i&#351;e
+      yarayan demek, yani en az&#305;ndan az bir ihtiyac&#305; da olsa kar&#351;&#305;layabilecek
+      program demek. Biz bu kadar&#305;n&#305; yapmayaca&#287;&#305;z bu 11 gün içinde.</div>
+    <div><br>
+    </div>
+    <div>Yani, bu programa, 11 gün sonra, ilgili birisi bakt&#305;&#287;&#305; zaman, &#351;unlar&#305;
+      diyebilecek:</div>
+    <ul>
+      <li>
+        <div>"Yaa, böyle bir program asl&#305;nda i&#351;imize yarayabilir, hani &#351;öyle
+          &#351;öyle özellikleri de olsa, &#351;unlar &#351;unlar yanl&#305;&#351; olmu&#351;, &#351;uralar&#305;n&#305;
+          de&#287;i&#351;tirin, ekleyin, ç&#305;kart&#305;n..." diyebilecek. Yani, bakt&#305;&#287;&#305; zaman,
+          hayalinde bir &#351;eyler canlanabilecek...</div>
+      </li>
+      <li>
+        <div>Veya - "Yaaa, böyle bir program i&#351;e yaramaz, kullan&#305;lmaz, bo&#351;una
+          emek tüketmeyin..."</div>
+      </li>
+    </ul>
+    <div>... diyebilecek.</div>
+    <div><br>
+    </div>
+    <div><b><i>Minyatür </i></b>'den kast&#305;m&#305;z budur.</div>
+    <div><br>
+    </div>
+    <hr>
+    <div><br>
+    </div>
+    <div><br>
+    </div>
+    <h2>Bir Partinin Üye/Delege Yap&#305;s&#305; ve Kongreler Sistemi</h2>
+    <div><br>
+    </div>
+    <div>Öncelikle, bu bilgileri bana veren, eskiden Sakarya'dan tan&#305;d&#305;&#287;&#305;m Say&#305;n
+      <b><i>Muharrem Ün</i></b> 'e te&#351;ekkür ederim.</div>
+    <div><br>
+    </div>
+    <h2>Sakarya</h2>
+    <div>için dü&#351;ünülürse...</div>
+    <div><br>
+    </div>
+    <h3>1- Üye Olunmas&#305;</h3>
+    <div>Bu üyeler 18 ya&#351;&#305;n&#305; a&#351;m&#305;&#351; olup, partiye kay&#305;t olan ki&#351;ilerdir.</div>
+    <div><br>
+    </div>
+    <h3>2- Delegelerin Seçilmesi</h3>
+    <div><br>
+    </div>
+    <div>Delegeleri, kay&#305;tl&#305; olan üyeler seçiyor.</div>
+    <div>Bu &#351;ekilde bir mahalleden ç&#305;kacak olan delegeler seçiliyor, o
+      mahallenin üyeleri taraf&#305;ndan.</div>
+    <div><br>
+    </div>
+    <div>16 ilçe var sakaryan&#305;n</div>
+    <div><br>
+    </div>
+    <div>Adapazar&#305; Merkez ilçe delegesi - 400 ü a&#351;mayacak</div>
+    <div>26 mahalle</div>
+    <div>100 köy</div>
+    <div><br>
+    </div>
+    <h3>3- &#304;lçe Kongresi/Seçimi</h3>
+    <div><br>
+    </div>
+    <div>Bu 400 Merkez &#304;lçe delegesi, Merkez &#304;lçe'yi seçecekler.</div>
+    <div>&#304;lçe kongresine gidece bu üyeler</div>
+    <div>&#304;lçe Kurulu - 11 asil - 11 yedek</div>
+    <div>&#304;lçe Haysiyet divan&#305; - 5 asil - 5 yedek</div>
+    <div>ile gidecek delegeler - merkez ilçe 180 dolay&#305;nda, toplam 600 ü geçmez.</div>
+    <div>Bu, ile gidecek delegeler, il yönetimini seçecekler.</div>
+    <div><br>
+    </div>
+    <div>400 delegeden ile gidecek delegeler, 180 civar&#305;nda olur</div>
+    <div><br>
+    </div>
+    <h3>4- &#304;l Kongresi/Seçimi</h3>
+    <div><br>
+    </div>
+    <div>il ba&#351;kan&#305; </div>
+    <div>il yönetim kurulu 15-15</div>
+    <div>il haysiyet divan&#305; 7-7</div>
+    <div>genel merkez delegeleri burada seçiliyor - 200-2500 ü geçmez Türkiyede
+      toplam olarak</div>
+    <div><br>
+    </div>
+    <div>genel merkezi seçecek delegeler burada seçiliyor</div>
+    <div>Türkiyeye gidecek</div>
+    <div>Genel Ba&#351;kan</div>
+    <div>Genel &#304;dare Kurulu - 60 60</div>
+    <div>Merkez Karar Kurulu - 40 40</div>
+    <div>Yüksek Haysiyet Kurulu - 15 15</div>
+    <div><br>
+    </div>
+    <div>il ba&#351;kan&#305;n&#305; ve il yönetimini seçecek 600 delege olacak</div>
+    <div>ba&#351;kan</div>
+    <div>il yönetimi - 11 asil, 15 yedek</div>
+    <div>il haysiyet divan&#305; - 7 asil, 7 yedek</div>
+    <div>Sakaryan&#305;n 18 delegesi seçilecek, Ankaraya gidecek delegeler.</div>
+    <div><br>
+    </div>
+    <h3>5- Türkiye Kongresi/Seçimi</h3>
+    <div><br>
+    </div>
+    <div>genel ba&#351;kan</div>
+    <div>genel idare kurulu 60</div>
+    <div>merkez karar kurulu 40 </div>
+    <div>yüksek haysiyet divan&#305; 15</div>
+    <div><br>
+    </div>
+    <div>Divan, ba&#351;kan&#305;, 5-6-7 ki&#351;i de seçilir</div>
+    <div>Divan&#305;n fonksiyonu</div>
+    <div><br>
+    </div>
+    <div>Divan'&#305;n seçimini internet üzerinden seçimi bitirilebilir</div>
+    <div><br>
+    </div>
+    <div>Tüzük de&#287;i&#351;iklikleri önceden verilebilir.</div>
+    <div><br>
+    </div>
+    <div>Alel acele bitirelim</div>
+    <div>Oldu bittiye getirelim</div>
+    <div><br>
+    </div>
+    <div>Eskiden Menderes zaman&#305;nda, kongreler 4-5 gün sürüyordu.</div>
+    <div><br>
+    </div>
+    <div>En az 4-5 gün sürmesi laz&#305;m.</div>
+    <div><br>
+    </div>
+    <hr>
+    <div><br>
+    </div>
+    <h2>Bu yaz&#305;l&#305;m sisteminin hayati katk&#305;s&#305; ne olur?</h2>
+    <div><br>
+    </div>
+    <div>"Ben fikrimi aç&#305;klayamad&#305;m! Konu&#351;amad&#305;m! Konu&#351;turmad&#305;lar! Benim
+      söyleyece&#287;im çok &#351;ey vard&#305;, söyleyemedim!"</div>
+    <div><br>
+    </div>
+    <div>... diyen kalmayacak!</div>
+    <div><br>
+    </div>
+    <div>Herkes fikrini, dü&#351;üncesini, teklifini tam olarak ilan edebilecek.</div>
+    <div>&#304;lgilenenler de bu ilanlar&#305; okuyabilecekler.</div>
+    <div><br>
+    </div>
+    <div>Teklifler</div>
+    <div><br>
+    </div>
+    <div>Kongrede görü&#351;ülmesi istenen teklifler, kongreden mesela 4 hafta önce
+      isteyenler taraf&#305;ndan internete ve cep telefonuna ilan edilebilecek.</div>
+    <div><br>
+    </div>
+    <div>Her isteyen delege, </div>
+    <div>her istedi&#287;i teklife,</div>
+    <div>ister olumlu ister olumsuz fikir yazabilecek, soru sorabilecek,</div>
+    <div><br>
+    </div>
+    <div>hatta bu teklifler oylanabilecektir.</div>
+    <div><br>
+    </div>
+    <div>Bu &#351;ekilde kongre ba&#351;lamadan evvel, kongrede görü&#351;ülecek teklifler
+      seçilerek belirlenmi&#351; olacakt&#305;r.</div>
+    <div><br>
+    </div>
+    <div>Kongrede söz al&#305;p konu&#351;acak ki&#351;iler de ayn&#305; &#351;ekilde seçilerek
+      belirlenmi&#351; olacakt&#305;r. </div>
+    <div><br>
+    </div>
+    <div>Bunlar mümkündür.</div>
+    <div><br>
+    </div>
+    <div>Fazlas&#305; da mümkündür.</div>
+    <div><br>
+    </div>
+    <div>Mesela bir mahallenin üyesi, kendi seçti&#287;i delege Kongrede neler yapm&#305;&#351;
+      görebilecektir. Delegesi hangi teklifleri vermi&#351;? Hangi teklifleri kabul
+      etmi&#351; veya reddetmi&#351;? Hangi tekliflere hangi yorumlar&#305; yazm&#305;&#351;, bunlar&#305;
+      görebilecektir. Bunlar mümkündür.</div>
+    <div><br>
+    </div>
+    <div>Hatta, kendi delegesi, kimlere oy vermi&#351;, bunu da çok rahat görebilir.
+      Mümkündür.</div>
+    <div><br>
+    </div>
+    <div>Hatta daha da ileri gidersek...</div>
+    <div><br>
+    </div>
+    <div>Bir karar&#305; vermek için 2000 delegeyi Ankara'ya toplamaya gerek
+      kalmadan, bütün delegelere oy hakk&#305; vererek, hatta bütün üyelere oy hakk&#305;
+      vererek, yüzbinlerce ki&#351;i ile oylama da yap&#305;labilir, seçim de yap&#305;labilir,
+      genel ba&#351;kan da seçilebilir.</div>
+    <div><br>
+    </div>
+    <div>Bunun için 2 y&#305;l beklemeye gerek te olmaz.</div>
+    <div>&#304;stenildi&#287;i zaman da yap&#305;labilir.</div>
+    <div><br>
+    </div>
+    <hr>
+    <div><br>
+    </div>
+    <h2>Bu <b><i><span style="color:rgb(252, 18, 51);">"Minyatür"</span></i></b>
+      Yaz&#305;l&#305;m Nas&#305;l Olacak?!</h2>
+    <div><br>
+    </div>
+    <div>Küçük olacak.</div>
+    <div>Bu </div>
+    <div>Mesela,</div>
+    <div>Normalde partilerin &#304;lçe ve Köy'leri de var. </div>
+    <div>Ancak biz bunlar&#305; yapmayaca&#287;&#305;z.</div>
+    <div>Sadece &#351;ehirleri yapaca&#287;&#305;z.</div>
+    <div>Bu fonksiyonlar&#305; ifade etmek için kafi görece&#287;iz.</div>
+    <div>Hepsini yapmaya kalksak, hem 10 günde yeti&#351;mez, hem adeta komple bir
+      sistem olur, o da 10 günde olmaz.</div>
+    <div><br>
+    </div>
+    <div>Mesela,</div>
+    <div>Yeni bir üye/delege bir adayl&#305;&#287;a kay&#305;t olurken, bunun sekreterya veya
+      ilgili birimler taraf&#305;ndan da onaylanmas&#305;, gerçek hayattaki uygulama
+      olabilir. Biz bunu yapmaya gerek duymayaca&#287;&#305;z. Basit olsun diye.</div>
+    <div><br>
+    </div>
+    <div>Ayn&#305; &#351;ekilde, yaz&#305;l&#305;m minyatür olacak.</div>
+    <div>Tam boy bir yaz&#305;l&#305;m neleri yapabilecek, ne i&#351;e yarayabilecek, bu fikri
+      verecek. Bizim de hedefimiz bu kadar.</div>
+    <div><br>
+    </div>
+    <div>Sonra, e&#287;er ilgi duyulursa, bu çal&#305;&#351;maya devam edilebilir.</div>
+    <div>Bunun için bir talep gelmesi gerekir.</div>
+    <div>Bunlar&#305; hep birlikte görece&#287;iz.</div>
+    <div><br>
+    </div>
+    <div>Sayg&#305;lar</div>
+    <div><br>
+    </div>
+    <div>Harun Altay</div>
+    <div><br>
+    </div>
+    <div><a href="mailto:h.altay@gmail.com">h.altay@gmail.com</a></div>
+    <div><br>
+    </div>
+    <div>Not: Bu minyatür diyebilece&#287;imiz program&#305;n10 gün sonra, yani, 12 &#350;ubat
+      2021 Cuma günü bitmi&#351; olmas&#305; gerekecek, sunumu yap&#305;lacak.</div>
   </body>
 </html>
