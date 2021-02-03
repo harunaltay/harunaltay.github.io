@@ -5,11 +5,12 @@
     <meta name="author" content="Harun Altay">
   </head>
   <body>
-    <div><a href="Projenin-Teklifi-Okul.html" target="_blank">projenin okul'a
+    <div><a href="../index.html">ana sayfaya dönünüz</a>
+      <div><a href="../index.html"></a></div>
+      <a href="Projenin-Teklifi-Okul.html" target="_blank">projenin okul'a
         teklif sayfasına gidiniz</a><br>
     </div>
-    <div><br>
-    </div>
+    <br>
     <h2 data-pm-slice="0 0 []" data-en-clipboard="true"><b><i><span style="color:rgb(252, 18, 51);">"Kongre
             Online"</span></i></b></h2>
     <h3>Kongre Yönetimi ve Bilgi Sistemi</h3>
@@ -40,8 +41,6 @@
       </li>
     </ul>
     <br>
-    <div><br>
-    </div>
     <hr>
     <div><br>
     </div>
@@ -148,8 +147,6 @@
     <div><br>
     </div>
     <hr>
-    <div><br>
-    </div>
     <div><br>
     </div>
     <h2>Bir Partinin Üye/Delege Yapısı ve Kongreler Sistemi</h2>
