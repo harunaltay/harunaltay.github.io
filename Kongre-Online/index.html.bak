@@ -10,7 +10,8 @@
       <a href="Projenin-Teklifi-Okul.html" target="_blank">projenin okul'a
         teklif sayfasına gidiniz</a><br>
     </div>
-    <br>
+    <a href="Basit-Kongre.html" target="_blank">basit kongre sayfasına gidiniz</a>
+    (şu anda bu proje yapılıyor)<br>
     <h2 data-pm-slice="0 0 []" data-en-clipboard="true"><b><i><span style="color:rgb(252, 18, 51);">"Kongre
             Online"</span></i></b></h2>
     <h3>Kongre Yönetimi ve Bilgi Sistemi</h3>
@@ -26,7 +27,7 @@
       birlikte göreceğiz.</div>
     <div><br>
     </div>
-    <div>11 gün sonra, elimizde şunlar olacaktır: </div>
+    <div>6 gün sonra, elimizde şunlar olacaktır: </div>
     <ul>
       <li>
         <div><b><i><span style="color:rgb(252, 18, 51);">İnternet </span></i></b>üzerinden
@@ -41,331 +42,20 @@
       </li>
     </ul>
     <br>
-    <hr>
-    <div><br>
-    </div>
-    <h3>Bu "Kongre Online" Yazılım Sistemini kimler kullanabilecektir?</h3>
-    <h3><br>
-    </h3>
-    <div>Siyasi Partiler</div>
-    <div><br>
-    </div>
-    <div>Odalar</div>
-    <ul>
-      <li>
-        <div>Ticaret Odaları</div>
-      </li>
-      <li>
-        <div>Mühendislik Odaları</div>
-      </li>
-      <ul>
-        <li>
-          <div>Bilgisayar Mühendisleri Odası</div>
-        </li>
-      </ul>
-      <li>
-        <div>Benzeri Başka Odalar</div>
-      </li>
-    </ul>
-    <div><br>
-    </div>
-    <div>Vakıflar?</div>
-    <div>Dernekler?</div>
-    <div>(Türkiye çapında, illere göre oluşmuş vakıflar, dernekler var mıdır?)</div>
-    <div><br>
-    </div>
-    <div>İlla ki bütün Türkiye çapında oluşmuş bir dernek/vakıf da olması şart
-      değil!</div>
-    <div><br>
-    </div>
-    <div>Sadece, mesela, İstanbul'da bulunan bir dernek de olabilir.</div>
-    <div><br>
-    </div>
-    <div>Yeter ki...</div>
-    <div><br>
-    </div>
-    <div>Kongre yapsın.</div>
-    <div><br>
-    </div>
-    <div>Kongresinde farklı fikirler tartışılması ihtiyacı olsun, tartışılsın.</div>
-    <div><br>
-    </div>
-    <div>Kongresinde adaylar olsun, bu adaylar Kongreden 2 hafta öncesinden
-      itibaren, internet üzerinden delegelere, üyelere kendilerini tanıtmak
-      istesinler, onlardan gelen soruları cevaplamak istesinler, müsbet veya
-      menfi değerlendirmeleri cevaplamak istesinler.</div>
-    <div><br>
-    </div>
-    <div>Kongresinde seçimler olsun.</div>
-    <div><br>
-    </div>
-    <hr>
-    <div><br>
-    </div>
-    <div>Bu 11 günde, nasıl bir program çıkacak?!</div>
-    <div><br>
-    </div>
-    <div>MVP - Minimum Viable Product ifadesini duymuşsunuzdur.</div>
-    <div><br>
-    </div>
-    <div>Bu program, böyle de olmayacak.</div>
-    <div>Ya neyle olacak?!</div>
-    <div><br>
-    </div>
-    <div>"Minimum <b><i><span style="color:rgb(252, 18, 51);">Minyatür </span></i></b>Product"</div>
-    <div>... olacak!</div>
-    <div><br>
-    </div>
-    <div>Program...</div>
-    <div><b><i>"Minyatür"</i></b> olacak.</div>
-    <div><b><i>"Viable" </i></b>olmayacak!</div>
-    <div><br>
-    </div>
-    <div>Viable, hayatiyetini elde edip devam ettirebilecek kadar da olsa işe
-      yarayan demek, yani en azından az bir ihtiyacı da olsa karşılayabilecek
-      program demek. Biz bu kadarını yapmayacağız bu 11 gün içinde.</div>
-    <div><br>
-    </div>
-    <div>Yani, bu programa, 11 gün sonra, ilgili birisi baktığı zaman, şunları
-      diyebilecek:</div>
-    <ul>
-      <li>
-        <div>"Yaa, böyle bir program aslında işimize yarayabilir, hani şöyle
-          şöyle özellikleri de olsa, şunlar şunlar yanlış olmuş, şuralarını
-          değiştirin, ekleyin, çıkartın..." diyebilecek. Yani, baktığı zaman,
-          hayalinde bir şeyler canlanabilecek...</div>
-      </li>
-      <li>
-        <div>Veya - "Yaaa, böyle bir program işe yaramaz, kullanılmaz, boşuna
-          emek tüketmeyin..."</div>
-      </li>
-    </ul>
-    <div>... diyebilecek.</div>
-    <div><br>
-    </div>
-    <div><b><i>Minyatür </i></b>'den kastımız budur.</div>
-    <div><br>
-    </div>
-    <hr>
-    <div><br>
-    </div>
-    <h2>Bir Partinin Üye/Delege Yapısı ve Kongreler Sistemi</h2>
-    <div><br>
-    </div>
-    <div>Öncelikle, bu bilgileri bana veren, eskiden Sakarya'dan tanıdığım Sayın
-      <b><i>Muharrem Ün</i></b> 'e teşekkür ederim.</div>
-    <div><br>
-    </div>
-    <h2>Sakarya</h2>
-    <div>için düşünülürse...</div>
-    <div><br>
-    </div>
-    <h3>1- Üye Olunması</h3>
-    <div>Bu üyeler 18 yaşını aşmış olup, partiye kayıt olan kişilerdir.</div>
-    <div><br>
-    </div>
-    <h3>2- Delegelerin Seçilmesi</h3>
-    <div><br>
-    </div>
-    <div>Delegeleri, kayıtlı olan üyeler seçiyor.</div>
-    <div>Bu şekilde bir mahalleden çıkacak olan delegeler seçiliyor, o
-      mahallenin üyeleri tarafından.</div>
-    <div><br>
-    </div>
-    <div>16 ilçe var sakaryanın</div>
-    <div><br>
-    </div>
-    <div>Adapazarı Merkez ilçe delegesi - 400 ü aşmayacak</div>
-    <div>26 mahalle</div>
-    <div>100 köy</div>
-    <div><br>
-    </div>
-    <h3>3- İlçe Kongresi/Seçimi</h3>
-    <div><br>
-    </div>
-    <div>Bu 400 Merkez İlçe delegesi, Merkez İlçe'yi seçecekler.</div>
-    <div>İlçe kongresine gidece bu üyeler</div>
-    <div>İlçe Kurulu - 11 asil - 11 yedek</div>
-    <div>İlçe Haysiyet divanı - 5 asil - 5 yedek</div>
-    <div>ile gidecek delegeler - merkez ilçe 180 dolayında, toplam 600 ü geçmez.</div>
-    <div>Bu, ile gidecek delegeler, il yönetimini seçecekler.</div>
-    <div><br>
-    </div>
-    <div>400 delegeden ile gidecek delegeler, 180 civarında olur</div>
-    <div><br>
-    </div>
-    <h3>4- İl Kongresi/Seçimi</h3>
-    <div><br>
-    </div>
-    <div>il başkanı </div>
-    <div>il yönetim kurulu 15-15</div>
-    <div>il haysiyet divanı 7-7</div>
-    <div>genel merkez delegeleri burada seçiliyor - 200-2500 ü geçmez Türkiyede
-      toplam olarak</div>
-    <div><br>
-    </div>
-    <div>genel merkezi seçecek delegeler burada seçiliyor</div>
-    <div>Türkiyeye gidecek</div>
-    <div>Genel Başkan</div>
-    <div>Genel İdare Kurulu - 60 60</div>
-    <div>Merkez Karar Kurulu - 40 40</div>
-    <div>Yüksek Haysiyet Kurulu - 15 15</div>
-    <div><br>
-    </div>
-    <div>il başkanını ve il yönetimini seçecek 600 delege olacak</div>
-    <div>başkan</div>
-    <div>il yönetimi - 11 asil, 15 yedek</div>
-    <div>il haysiyet divanı - 7 asil, 7 yedek</div>
-    <div>Sakaryanın 18 delegesi seçilecek, Ankaraya gidecek delegeler.</div>
-    <div><br>
-    </div>
-    <h3>5- Türkiye Kongresi/Seçimi</h3>
-    <div><br>
-    </div>
-    <div>genel başkan</div>
-    <div>genel idare kurulu 60</div>
-    <div>merkez karar kurulu 40 </div>
-    <div>yüksek haysiyet divanı 15</div>
-    <div><br>
-    </div>
-    <div>Divan, başkanı, 5-6-7 kişi de seçilir</div>
-    <div>Divanın fonksiyonu</div>
-    <div><br>
-    </div>
-    <div>Divan'ın seçimini internet üzerinden seçimi bitirilebilir</div>
-    <div><br>
-    </div>
-    <div>Tüzük değişiklikleri önceden verilebilir.</div>
-    <div><br>
-    </div>
-    <div>Alel acele bitirelim</div>
-    <div>Oldu bittiye getirelim</div>
-    <div><br>
-    </div>
-    <div>Eskiden Menderes zamanında, kongreler 4-5 gün sürüyordu.</div>
-    <div><br>
-    </div>
-    <div>En az 4-5 gün sürmesi lazım.</div>
-    <div><br>
-    </div>
-    <hr>
-    <div><br>
-    </div>
-    <h2>Bu yazılım sisteminin hayati katkısı ne olur?</h2>
-    <div><br>
-    </div>
-    <div>"Ben fikrimi açıklayamadım! Konuşamadım! Konuşturmadılar! Benim
-      söyleyeceğim çok şey vardı, söyleyemedim!"</div>
-    <div><br>
-    </div>
-    <div>... diyen kalmayacak!</div>
-    <div><br>
-    </div>
-    <div>Herkes fikrini, düşüncesini, teklifini tam olarak ilan edebilecek.</div>
-    <div>İlgilenenler de bu ilanları okuyabilecekler.</div>
-    <div><br>
-    </div>
-    <div>Teklifler</div>
-    <div><br>
-    </div>
-    <div>Kongrede görüşülmesi istenen teklifler, kongreden mesela 4 hafta önce
-      isteyenler tarafından internete ve cep telefonuna ilan edilebilecek.</div>
-    <div><br>
-    </div>
-    <div>Her isteyen delege, </div>
-    <div>her istediği teklife,</div>
-    <div>ister olumlu ister olumsuz fikir yazabilecek, soru sorabilecek,</div>
-    <div><br>
-    </div>
-    <div>hatta bu teklifler oylanabilecektir.</div>
-    <div><br>
-    </div>
-    <div>Bu şekilde kongre başlamadan evvel, kongrede görüşülecek teklifler
-      seçilerek belirlenmiş olacaktır.</div>
-    <div><br>
-    </div>
-    <div>Kongrede söz alıp konuşacak kişiler de aynı şekilde seçilerek
-      belirlenmiş olacaktır. </div>
-    <div><br>
-    </div>
-    <div>Bunlar mümkündür.</div>
-    <div><br>
-    </div>
-    <div>Fazlası da mümkündür.</div>
-    <div><br>
-    </div>
-    <div>Mesela bir mahallenin üyesi, kendi seçtiği delege Kongrede neler yapmış
-      görebilecektir. Delegesi hangi teklifleri vermiş? Hangi teklifleri kabul
-      etmiş veya reddetmiş? Hangi tekliflere hangi yorumları yazmış, bunları
-      görebilecektir. Bunlar mümkündür.</div>
-    <div><br>
-    </div>
-    <div>Hatta, kendi delegesi, kimlere oy vermiş, bunu da çok rahat görebilir.
-      Mümkündür.</div>
-    <div><br>
-    </div>
-    <div>Hatta daha da ileri gidersek...</div>
-    <div><br>
-    </div>
-    <div>Bir kararı vermek için 2000 delegeyi Ankara'ya toplamaya gerek
-      kalmadan, bütün delegelere oy hakkı vererek, hatta bütün üyelere oy hakkı
-      vererek, yüzbinlerce kişi ile oylama da yapılabilir, seçim de yapılabilir,
-      genel başkan da seçilebilir.</div>
-    <div><br>
-    </div>
-    <div>Bunun için 2 yıl beklemeye gerek te olmaz.</div>
-    <div>İstenildiği zaman da yapılabilir.</div>
-    <div><br>
-    </div>
-    <hr>
-    <div><br>
-    </div>
-    <h2>Bu <b><i><span style="color:rgb(252, 18, 51);">"Minyatür"</span></i></b>
-      Yazılım Nasıl Olacak?!</h2>
-    <div><br>
-    </div>
-    <div>Küçük olacak.</div>
-    <div>Bu </div>
-    <div>Mesela,</div>
-    <div>Normalde partilerin İlçe ve Köy'leri de var. </div>
-    <div>Ancak biz bunları yapmayacağız.</div>
-    <div>Sadece şehirleri yapacağız.</div>
-    <div>Bu fonksiyonları ifade etmek için kafi göreceğiz.</div>
-    <div>Hepsini yapmaya kalksak, adeta komple bir sistem olur, o da 10 günde
-      olmaz.</div>
-    <div><br>
-    </div>
-    <div>Mesela,</div>
-    <div>Yeni bir üye/delege bir adaylığa kayıt olurken, bunun sekreterya veya
-      ilgili birimler tarafından da onaylanması, gerçek hayattaki uygulama
-      olabilir. Biz bunu yapmaya gerek duymayacağız. Basit olsun diye.</div>
-    <div><br>
-    </div>
-    <div>Aynı şekilde, yazılım minyatür olacak.</div>
-    <div>Tam boy bir yazılım neleri yapabilecek, ne işe yarayabilecek, bu fikri
-      verecek. Bizim de hedefimiz bu kadar.</div>
-    <div><br>
-    </div>
-    <div>Sonra, eğer ilgi duyulursa, bu çalışmaya devam edilebilir.</div>
-    <div>Bunun için bir talep gelmesi gerekir.</div>
-    <div>Bunları hep birlikte göreceğiz.</div>
-    <div><br>
-    </div>
-    <div>Saygılar</div>
-    <div><br>
-    </div>
     <div>Harun Altay</div>
     <div><br>
     </div>
     <div><a href="mailto:h.altay@gmail.com">h.altay@gmail.com</a></div>
     <div><br>
     </div>
-    <div>Not: Bu minyatür diyebileceğimiz programın10 gün sonra, yani, 12 Şubat
+    <div>Not: Bu minyatür diyebileceğimiz programın 6 gün sonra, yani, 12 Şubat
       2021 Cuma günü bitmiş olması gerekecek, sunumu yapılacak.</div>
     <div><br>
     </div>
     <div><br>
     </div>
+    <div><a href="Basit-Kongre.html" target="_blank">basit kongre sayfasına
+        gidiniz</a> (şu anda bu proje yapılıyor) </div>
     <div><a href="Projenin-Teklifi-Okul.html" target="_top">projenin okul'a
         teklif sayfasına gidiniz</a> </div>
     <div><a href="../index.html">ana sayfaya dönünüz</a><br>
