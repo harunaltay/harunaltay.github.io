@@ -11,19 +11,18 @@
     <p> </p>
     <hr>
     <p> </p>
+    <p> </p>
     <br>
-    <p><br>
-    </p>
     <div data-pm-slice="0 0 []" data-en-clipboard="true"><br>
     </div>
     <h1><b><i><span style="color:rgb(252, 18, 51);">Kongre Online</span></i></b>
       ve <b><i><span style="color:rgb(252, 18, 51);">Sosyal Medya </span></i></b>Projesi</h1>
-    <h2>'Mini' versiyon</h2>
+    <h2>'mini' versiyon</h2>
     <h2>Modüler Dizayn</h2>
     <div><br>
     </div>
     <div>Harun Altay</div>
-    <div>2021 Şubat 7 Pazar 20:00</div>
+    <div>2021 Şubat 7 Pazar 22:30</div>
     <div><br>
     </div>
     <hr>
@@ -475,11 +474,10 @@
     <div>aspnet_Users</div>
     <div>aspnet_Roles</div>
     <div>aspnet_UsersInRoles</div>
-    <div>(<i>'Membership Provider'</i> Programı bu 3 tabloyu kendisi otomatik
-      oluşturacak. Biz kullanacağız.)</div>
     <div><br>
     </div>
-    <div>Uye</div>
+    <div><i>'Membership Provider'</i> Programı bu 3 tabloyu kendisi otomatik
+      oluşturacak. Biz kullanacağız.</div>
     <div><br>
     </div>
     <h3><b><span data-highlight="green" style="background-color: #b7f7d1;">Ekranlar</span></b></h3>
@@ -500,11 +498,13 @@
     <div><br>
     </div>
     <div>Üye, Delege, Sekreterya, Admin gibi kullanıcı türleri olacaktır</div>
+    <div><br>
+    </div>
     <div>Kişi kendisini: "Üye, Delege, Sekreterya Üyesi, Admin" olarak
       kaydedebilecektir.</div>
     <ul>
       <li>
-        <div>Bu kayıtlari onaydan geçebilecektir. Mesela, kişi kendisini Üye
+        <div>Bu kayıtları onaydan geçebilecektir. Mesela, kişi kendisini Üye
           veya Delege olarak kaydetmiş, bu doğru mudur? Sekreterya tarafından
           onaylanacaktır.</div>
       </li>
@@ -516,6 +516,8 @@
           veya değiştirmek isterse, değiştirebilecektir.</div>
       </li>
     </ul>
+    <div><br>
+    </div>
     <div>Üye'nin web sayfası olacaktır</div>
     <ul>
       <li>
@@ -903,8 +905,6 @@
       görülebilecektir)</div>
     <div><br>
     </div>
-    <div><br>
-    </div>
     <hr>
     <div><br>
     </div>
@@ -1046,7 +1046,7 @@
     <hr>
     <div><br>
     </div>
-    <h2>Sayfalama (Paging)</h2>
+    <h2>Sayfalama (paging)</h2>
     <div><br>
     </div>
     <div>Her listeleme ekranında Sayfalama olmalıdır.</div>
