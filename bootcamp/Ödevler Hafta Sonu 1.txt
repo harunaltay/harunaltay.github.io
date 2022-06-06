@@ -1,0 +1,154 @@
+
+(Orkun Bey yazdı)
+
+Arkadaşlar herkese merhaba. Hocamız önümüzdeki haftaya hazırlıklı gelmek için  bazı ödevler verdi.
+Bu ödevler bizim gelişimimiz için çok önemli ve önümüzdeki programlama temellerini, Google'yi kullanabilmeyi, kaynak araştırması yapabilmeyi bu ödevler ile birlikte aşinalık kazanmış olacağız.
+Bu ödevler ders içerisinde kontrol edilemeyecek çünkü 10 ödev ve 15 öğrenciden dolayı ders saatinde çok fazla zaman gitmiş olacak ve
+ders saatlerindeki zamanın boşa gitmesi bizim için asla iyi olmayacaktır. bu nedenle önümüzdeki hafta Discord yada slack grubu kurulacak yapmış olduğumuz ödevleri, projeleri, kaynaklar, vb gibi
+unsurları o gruplardan halledeceğiz.
+Şimdi sizlere önümüzdeki haftaya hazırlık gelmek için ödev sorularını paylaşacağım;
+
+
+Ödev 1:
+- C# dilinde kullanılan "Data Types" çeşitletini arayıp bulunuz ve listeleyiniz.
+- Google'den ingilizce olarak "C# Data Types" şeklinde arayacaksınız.
+- İngilizce aramak kolay, çünkü belli bir kelimeyi arayacaksınız.
+- Türkçe şeklinde aramak daha zor
+- Türkçe'de ise şu şekilde arayabilirsiniz;
+-> C# Veri Tipleri.
+-> C# Veri Türleri.
+-> C# Değer Tipleri.
+-> C# Değişken Tipleri.
+- Google'den başka kaynaklar:
+-> Youtube, Udemy, her türlü kitap.
+
+
+Ödev 2:
+- Önümüzdeki 2 hafta (10 gün) boyunca "Procedural Programla" işleyeceğiz
+-> ÖDEV: Procedural Programla başlıkları nedir? Yani bu 10 gün boyunca neleri öğreneceğiz, bulup listeleyiniz.
+-> Kaynaklarınız;
+- Google
+- Youtube
+- Udemy 
+- her türlü kitap
+
+
+Ödev 3:
+Sınıfta yaptığınız "Console Hello World" programının hepsini, bir defa da kendiniz evde yaparak tekrar ediniz.
+
+
+Ödev 4:
+Ödev 3'de yaptığınız "Console Hello Word" projesini "Publish" ediniz.
+-> Arayıp, bulup, öğreniniz. Bir projeyi publish etmek ne demektir.
+-> Kaynak: Google
+
+
+Ödev 5:
+-> Google'den araştırın:
+1. Cv nedir? bir tane örnek bulun
+2. Resume nedir? bir tane örnek bulun
+3. Cover Lefter nedir? bir tane örnek bulun
+4. Cv ve Resume arasındaki Farklar nelerdir? Hangisi kime verilmelidir?
+
+
+Ödev 6: 
+Sınıfta yaklaşık 7 dakikada yapmış olduğumuz "Windows Forms Hello World" projesini evde yapın, tekrar edin.
+-> Kaynak: Google, Youtube, Udemy, Kitaplar.
+
+
+Ödev 7:
+Google'den ara; "C# tutorial". Doğal bir şekilde ingilizce kaynak bulacaksınız. 
+bulduklarınız içerisinden hoşunuza giden 3 adet inglizce "C# tutorial" sitesini listeleyiniz.
+NOT: Google isteniyor! Youtube değil. Site isteniyor!
+
+
+Ödev 8:
+Ödev 7'de yaptığınız işin aynısını bu sefer Türkçe için yapacaksınız. 
+Yani; "Türkçe C# tutorial" bulduklarınız içerisinden hoşunuza giden 3 adet Türkçe "C# tutorial" sitesini listeleyiniz.
+NOT: Google isteniyor! Youtube değil. Site isteniyor!
+
+
+Ödev 9:
+Ödev 7'de yapmış olduğunuzun aynısını Youtube'de "Türkçe" için yapacaksınız.
+Yani; Youtube'deki C# öğreten kişilerin ve kanalların içerisinde en beğendiğiniz 3 adet kişi ve kanal ismini ve internet adresini listeleyin.
+Örnek;
+www.youtube.com/ahmetörnek
+www.youtube.com/eniyiCsharphocası
+www.youtube.com/hasanörneksoy
+
+------------------------------
+
+Hafta Sonu Projesi:
+Derste Youtube üzerinden 6 dakikalık videoda gösterilen "Labirent Oyunu":
+1. Evde yazıp çalıştırın
+2. Github sayfanıza yükleyin
+-> Oyun Linki: https://www.youtube.com/watch?v=qSsyLAox8V0
+
+------------------------------
+
+(Bunları ben yazdım. Harun)
+
+Udemy Ödev 1:
+
+Uygulama Geliştirerek C# Öğrenin: A'dan Z'ye Eğitim Seti
+https://www.udemy.com/course/sifirdan-ileri-seviye-csharp-programlama/
+Bu hep birlikte derste bulduğumuz, konuştuğumuz Udemy eğitimidir.
+
+-a-
+Bu, kursun ana tanıtım sayfasındaki yazıları düşünerek okuyun:
+
+- Öğrenecekleriniz
+- Gereksinimler
+- Açıklama
+- Bu kurslar kimim için uygun
+
+-b-
+"İÇİNDEKİLER" listesini inceleyin:
+İçindekiler'de 23 adet başlık var.
+Bu 23 tane başlığı okuyun.
+
+
+Udemy Ödev 2:
+
+Bu içindekiler listesinde bulunup ta, bizim bu pazartesi başlayacağımız Procedural Programlama konusu olan başlıkları listeleyin.
+(Yani buradaki hangi başlıklar PP'yi oluşturuyor?)
+
+
+Udemy Ödev 3:
+
+Yukarıda bulduğunuz, bu PP'yi oluşturan başlıkların altını tıklayarak, önümüzdeki 2 hafta (10 gün) göreceğimiz PP konusunun alt başlıklarını görün, bakın neye benziyorlar, size bir şeyler ifade ediyorlar mı?
+
+
+Udemy Ödev 4:
+
+İçindekiler listesinde, yukarudan ikinci madde şu:
+"Temel Araç Kullanımı"
+
+Tıklayıp içine bakmadan biraz bekleyip düşünün: İçinde neler olabilir acaba?
+
+Şimdi tıklayıp içini görün, bakın neler varmış?
+
+Ne ummuştunuz? Ne buldunuz?
+
+
+Udemy Ödev 5:
+
+"Temel Araç Kullanımı" başlığının altında
+
+Bir "Merhaba Dünya" altbaşlığı var?
+
+Biz de bu hafta 2 adet Merhaba Dünya işledik.
+Acaba onlardan birisi mi? Yoksa başka üçüncü çeşit bir "Merhaba Dünya" mıdır?
+
+
+Udemy Ödev 6:
+
+"Temel Araç Kullanımı" başlığının altında bulunan 9 dakikalık "Merhaba Dünya" videosunuz:
+- bir defa düz, durmadan izleyin
+- ikinci defa olarak, seyrederken kendi bilgisayarınızda da uygulayın. Yani, bir Merhaba Dünya programı yapmış olacaksınız şimdi.
+
+
+Udemy Ödev 7:
+
+Sizce, "Temel Araç Kullanımı" adı uygun mu verilmiş?
+Siz olsaydınız bu bölüme ne ad verirdiniz?
