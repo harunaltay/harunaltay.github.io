@@ -1,0 +1,16 @@
+Console Read Write (continue)
+Data Types
+Operators
+if, if-else, if-elseif-else, switch
+do-while, while, for, foreach
+arrays
+structs
+collections
+functions
+recursion
+
+in appropriate places:
+debug
+try-catch
+file io
+etc
