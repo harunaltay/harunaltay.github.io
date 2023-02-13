@@ -88,6 +88,179 @@
 <p>---0---</p>
 <p></p>
 <hr>
+<p>Aşağıdaki kodları ben yazdım.</p>
+<p>I wrote the codes below.</p>
+<hr>
+<p>Sayfa.jsx</p>
+<div>
+  <div>var document = app.activeDocument;</div>
+  <div>var pages = document.pages;</div>
+  <br>
+  <div>// var page = pages[100];</div>
+  <div>// var page = pages[54];</div>
+  <div>// var page = pages[58];</div>
+  <div>var page = pages[17];</div>
+  <br>
+  <div>alert(page.textFrames.length);</div>
+  <br>
+  <div>alert(page.textFrames[0].contents);</div>
+  <div>alert(page.textFrames[1].contents);</div>
+  <div>alert(page.textFrames[2].contents);</div>
+  <div>alert(page.textFrames[3].contents);</div>
+</div>
+<hr>
+<p>sayfalar_textFolder_sayilari_yazdir.jsx</p>
+<div>
+  <div>var document = app.activeDocument;</div>
+  <div>var pages = document.pages;</div>
+  <br>
+  <div>var sayi = 0;</div>
+  <div>var metin = "";</div>
+  <br>
+  <div>for (var i = 0; i &lt; pages.length; i++) {</div>
+  <div>&#160; &#160; metin = metin + i + "=" + pages[i].textFrames.length + ", ";</div>
+  <div>&#160; &#160; if (i==0) continue;</div>
+  <div>&#160; &#160; if(i%20 == 0) metin = metin + "\n";</div>
+  <div>&#160; } ;</div>
+  <br>
+  <div>alert(metin);</div>
+  <br>
+  <br>
+  <div>// Preparing output path</div>
+  <div>var scriptFolder = File.decode( File($.fileName).parent );</div>
+  <div>var file = scriptFolder + "/dosya.txt";</div>
+  <br>
+  <div>var file2 = "D:/ExtendScriptFolder/dosya.txt";</div>
+  <br>
+  <div>// Writing</div>
+  <div>writeTextFile( file2, metin);</div>
+  <br>
+  <br>
+  <br>
+  <div>// Set the third parameter to true if you don't want this to create the file if it doesn't already exist.</div>
+  <div>// Returns false if file was not created. Doesn't account for write errors...</div>
+  <div>function writeTextFile( filePath, textContent ) {</div>
+  <div>&#160; </div>
+  <div>&#160; &#160; var file = new File( filePath );</div>
+  <br>
+  <div>&#160; &#160; &#160; file.open('w'); // Opens a file for writing. If the file exists, its contents are destroyed. </div>
+  <div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; // If the file does not exist, creates a new, empty file.</div>
+  <div>&#160; &#160; &#160; file.encoding = 'UTF8';</div>
+  <div>&#160; &#160; &#160; file.write( textContent );</div>
+  <div>&#160; &#160; &#160; file.close(); &#160; &#160; </div>
+  <br>
+  <div>&#160; }</div>
+</div>
+<hr>
+<p>sayfalar_textFolder_muhtevalar_yazdir.jsx</p>
+<div>
+  <div>var document = app.activeDocument;</div>
+  <div>var pages = document.pages;</div>
+  <br>
+  <div>// var sayi = 0;</div>
+  <div>// var metin = "";</div>
+  <br>
+  <div>// for (var i = 0; i &lt; pages.length; i++) {</div>
+  <div>// &#160; &#160; metin = metin + i + "=" + pages[i].textFrames.length + ", ";</div>
+  <div>// &#160; &#160; if (i==0) continue;</div>
+  <div>// &#160; &#160; if(i%20 == 0) metin = metin + "\n";</div>
+  <div>// &#160; } ;</div>
+  <br>
+  <div>// alert(metin);</div>
+  <br>
+  <div>// var page = pages[100];</div>
+  <div>// var page = pages[54];</div>
+  <div>var page = pages[58];</div>
+  <br>
+  <div>alert(page.textFrames.length);</div>
+  <br>
+  <div>// alert(page.textFrames[0].contents);</div>
+  <div>// alert(page.textFrames[1].contents);</div>
+  <div>// alert(page.textFrames[2].contents);</div>
+  <div>// alert(page.textFrames[3].contents);</div>
+  <br>
+  <div>var muhteva = "";</div>
+  <br>
+  <div>for (var index = 0; index &lt; page.textFrames.length; index++) {</div>
+  <div>&#160; muhteva += page.textFrames[index].contents;</div>
+  <div>&#160; muhteva += "\n\n ------- 0 -------\n\n";</div>
+  <div>&#160; </div>
+  <div>}</div>
+  <br>
+  <div>alert(muhteva);</div>
+  <br>
+  <div>var file = "D:/ExtendScriptFolder/muhteva.txt";</div>
+  <br>
+  <div>// Writing</div>
+  <div>writeTextFile( file, muhteva);</div>
+  <br>
+  <br>
+  <br>
+  <div>// Set the third parameter to true if you don't want this to create the file if it doesn't already exist.</div>
+  <div>// Returns false if file was not created. Doesn't account for write errors...</div>
+  <div>function writeTextFile( filePath, textContent ) {</div>
+  <div>&#160; </div>
+  <div>&#160; &#160; var file = new File( filePath );</div>
+  <br>
+  <div>&#160; &#160; &#160; file.open('w'); // Opens a file for writing. If the file exists, its contents are destroyed. </div>
+  <div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; // If the file does not exist, creates a new, empty file.</div>
+  <div>&#160; &#160; &#160; file.encoding = 'UTF8';</div>
+  <div>&#160; &#160; &#160; file.write( textContent );</div>
+  <div>&#160; &#160; &#160; file.close(); &#160; &#160; </div>
+  <br>
+  <div>&#160; }</div>
+</div>
+<hr>
+<p>sayfalar_textFolder_muhtevalar_yazdir_coklu.jsx</p>
+<div>
+  <div>var document = app.activeDocument;</div>
+  <div>var pages = document.pages;</div>
+  <br>
+  <div>// var page = pages[100];</div>
+  <div>// var page = pages[54];</div>
+  <div>var page = pages[58];</div>
+  <br>
+  <div>var muhteva = "";</div>
+  <br>
+  <div>alert(page.textFrames.length);</div>
+  <br>
+  <div>var sayi = 0;</div>
+  <br>
+  <div>for (var i = 0; i &lt; pages.length; i++) {</div>
+  <div>&#160; muhteva ="";</div>
+  <div>&#160; page = pages[i];</div>
+  <div>&#160; for (var index = 0; index &lt; page.textFrames.length; index++) {</div>
+  <div>&#160; &#160; muhteva += page.textFrames[index].contents;</div>
+  <div>&#160; &#160; muhteva += "\n\n ------- 0 -------\n\n";</div>
+  <div>&#160; &#160; </div>
+  <div>&#160; };</div>
+  <div>&#160; var file = "D:/ExtendScriptFolder/sayfalar/" + i + ".txt";</div>
+  <br>
+  <div>&#160; writeTextFile( file, muhteva); &#160; </div>
+  <div>&#160; } ;</div>
+  <br>
+  <br>
+  <div>// Set the third parameter to true if you don't want this to create the file if it doesn't already exist.</div>
+  <div>// Returns false if file was not created. Doesn't account for write errors...</div>
+  <div>function writeTextFile( filePath, textContent ) {</div>
+  <div>&#160; </div>
+  <div>&#160; &#160; var file = new File( filePath );</div>
+  <br>
+  <div>&#160; &#160; &#160; file.open('w'); // Opens a file for writing. If the file exists, its contents are destroyed. </div>
+  <div>&#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; &#160; // If the file does not exist, creates a new, empty file.</div>
+  <div>&#160; &#160; &#160; file.encoding = 'UTF8';</div>
+  <div>&#160; &#160; &#160; file.write( textContent );</div>
+  <div>&#160; &#160; &#160; file.close(); &#160; &#160; </div>
+  <br>
+  <div>&#160; }</div>
+</div>
+<hr>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 <p>&nbsp;</p>
