@@ -1,0 +1,245 @@
+﻿@media screen and (max-width: 1200px) {
+	.main .left .banner.area-9 { display: none; }
+	.main .right .banner.area-10 { display: none; }
+}
+
+@media screen and (max-width: 987px) {
+	.banner { display: none; }
+	.scale, .main { width: 676px; }
+	.top .section-1 .right { left: 144px; }
+	.top .section-2 .logo { left: 25px; }
+	.top .section-2 .weather { left: 320px; }
+	.top .section-2 .currencies { left: 480px; }
+	.top .section-0,
+	.top .section-1 .left,
+	.top .section-1 .clock,
+	.top .section-3 .navigation .bar .menu .id-1,
+	.top .section-3 .navigation .bar .menu .id-2,
+	.top .section-3 .navigation .bar .menu .id-3,
+	.top .section-3 .navigation-fixed { display: none; }
+	.top .section-3 .navigation .bar .menu .all .sub-menu { width: 471px; margin-right: -292px; }
+	.top .section-3 .navigation .bar .search input { width: 154px; }
+	.main .left { margin-bottom: 4px; }
+	.main .right { width: 100%; }
+	.main .right .risale-i-nur { margin-top: 0 !important; }
+	.main .right .risale-i-nur,
+	.main .right .archive,
+	.main .right .connect,
+	.main .right .e-newspaper { width: 300px; }
+	.main .right .monopoly { top: -4px; left: 304px; width: 372px; position: absolute; }
+	.main .right .cevsen { top: 0; left: 304px; width: 372px; position: absolute; }
+	.main .right .bik-ad { top: 104px; left: 304px; width: 372px; height: 206px; position: absolute; }
+	.main .right .salaat-times { top: 310px; left: 304px; width: 372px; position: absolute; }
+	.foot .links .column { padding-left: 23px; width: 21%; }
+	.foot .links .column:nth-child(5) { display: none; }
+	.foot .communication .scale { background-position: 50% 20px; }
+	.foot .communication .scale .copyright { float: none; padding: 0; margin-top: 55px; text-align: center; }
+	.foot .communication .scale .follow { float: none; padding: 0; margin: 20px auto; width: 281px; }
+	.page-default .featured .hot-news { width: 100%; }
+	.page-default .featured .hot-news .item { width: 336px; height: 200px; }
+	.page-default .featured .hot-news .item.id-1 { margin: 0; }
+	.page-default .featured .headlines { margin-right: 0; }
+	.page-default .editorial,
+	.page-default .authors,
+	.page-default .galleries,
+	.page-default .top-news,
+	.page-default .magazines { margin-right: 0; }
+	.page-content-list { width: 676px; }
+	.page-content-list .list .item { width: 208px; }
+	.page-content-list .category-headlines .item { width: 299px; }
+	.page-content-list .category-news { width: 701px; }
+	.page-content-details { width: 100%; }
+	.page-content-details .content-image iframe { height: 384px; }
+	.page-content-details .details .previous-contents .item { width: 192px; }
+	.page-content-details .related-contents { width: 201px; }
+	.page-authors .todays-authors { width: 471px; }
+	.page-authors .opinions-head label,
+	.page-authors .opinions-head select { left: 190px; }
+
+	.page-default .banner.area-13 { display: block; margin: 0 auto 20px; }
+}
+
+@media screen and (max-width: 699px) {
+	.form p .TextBox { width: 97%; }
+	.scale, .main { width: 604px; }
+	.top .section-1 .right { left: 108px; }
+	.top .section-3 .navigation .bar .menu .id-1,
+	.top .section-3 .navigation .bar .menu .id-6 { display: none; }
+	.top .section-3 .navigation .bar .menu .all .sub-menu { margin-right: -244px; }
+	.top .section-3 .navigation .bar .search input { width: 158px; }
+	.main .right .risale-i-nur,
+	.main .right .monopoly,
+	.main .right .cevsen,
+	.main .right .connect,
+	.main .right .bik-ad,
+	.main .right .salaat-times { width: 300px; }
+	.page-default .featured .hot-news .item { width: 300px; height: 180px; }
+	.page-default .featured .headlines .item { height: 330px; }
+	.page-default .featured .headlines .item a .body h4 { margin: 46px 25px; }
+	.page-default .featured .headlines .item a .body h4 span { font-size: 24px; line-height: 26px; padding: 2px 4px 4px 4px; }
+	.page-default .featured .headlines .slick-prev { top: 90px; }
+	.page-default .featured .headlines .slick-next { top: 90px; }
+	.page-default .featured .headlines-nav { width: 560px; height: 26px; margin: -46px auto 0; }
+	.page-default .featured .headlines-nav .item { width: 20px; height: 20px; }
+	.page-default .featured .fixed { height: 350px; }
+	.page-default .featured .fixed .lahika { width: 280px; height: 350px; }
+	.page-default .featured .fixed .ayet-hadis { left: 284px; width: 158px; height: 116px; }
+	.page-default .featured .fixed .vecize { top: 0; left: 446px; width: 158px; height: 116px; }
+	.page-default .featured .fixed .caricature { top: 120px; left: 284px; width: 320px; height: 230px; }
+	.page-default .editorial .item { width: 350px; height: auto; }
+	.page-default .editorial .item.id-0 { width: 350px; height: auto; margin: 0 0 10px 24px; }
+	.page-default .editorial .item.id-0 a .image { width: 55px; height: 40px; margin: 0 10px 10px 0; }
+	.page-default .editorial .item.id-4 { width: 170px; }
+	.page-default .editorial .item.id-4 a .image { width: 164px; height: 215px; }
+	.page-default .authors .item { width: 250px; padding-right: 25px; }
+	.page-default .galleries .item { float: none; width: auto; height: auto; margin: 0 15px 20px 20px; }
+	.page-default .galleries .item a .image { width: 110px; height: 70px; margin: 0 10px 0 0; }
+	.page-default .top-news .list { margin-right: 20px; }
+	.page-default .top-news .list .item { float: none; width: auto !important; height: auto !important; margin: 0 0 20px 18px; }
+	.page-default .top-news .list .item a .image { width: 110px !important; height: 70px !important; margin: 0 10px 0 0; }
+	.page-default .top-news .list .item a .body p { display: none; }
+	.page-default .magazines a { margin-left: 30px; }
+	.page-default .magazines a.subscribe { text-align: center; width: 100%; padding: 0; margin: 20px 0 0 0; }
+	.page-content-list { width: 604px; }
+	.page-content-list .list .item { width: 184px; }
+	.page-content-list .category-headlines .item { width: 263px; }
+	.page-content-list .category-news { width: 629px; }
+	.page-content-details .content-image { height: 330px; }
+	.page-content-details .content-image iframe { height: 336px; }
+	.page-content-details .details { width: 400px; }
+	.page-content-details .details .dealer-notice { height: 46px; }
+	.page-content-details .details .previous-contents .item { width: 168px; }
+	.page-content-details .related-contents { width: 179px; }
+	.page-content-details.type-2 .details .previous-contents .item { width: 162px; }
+	.page-authors .todays-authors { width: 399px; }
+	.page-authors .opinions-head label,
+	.page-authors .opinions-head select { left: 118px; }
+}
+
+@media screen and (max-width: 639px) {
+	.scale, .main { width: 504px; }
+	.top .section-1 .right { left: 58px; }
+	.top .section-2 .logo { left: 4px; }
+	.top .section-2 .weather { left: 269px; }
+	.top .section-2 .currencies { left: 400px; }
+	.top .section-3 .navigation .spot .text { left: 0; }
+	.top .section-3 .navigation .spot .date { right: 0; }
+	.top .section-3 .navigation .bar .menu .id-5,
+	.top .section-3 .navigation .bar .menu .id-6 { display: none; }
+	.top .section-3 .navigation .bar .menu .all .sub-menu { margin-right: -247px; }
+	.top .section-3 .navigation .bar .search input { width: 135px; }
+	.main .right .risale-i-nur,
+	.main .right .monopoly,
+	.main .right .cevsen,
+	.main .right .connect,
+	.main .right .archive,
+	.main .right .e-newspaper,
+	.main .right .bik-ad,
+	.main .right .salaat-times { top: auto; left: auto; width: 100%; position: relative; }
+	.main .right .archive .schedule { margin-left: 100px; }
+	.main .right .e-newspaper { height: auto; }
+	.main .right .e-newspaper a { margin-left: 128px; }
+	.main .right .bik-ad { height: 175px; }
+	.main .right .salaat-times { height: 100px; }
+	.main .right .salaat-times .remainder { left: 101px; }
+	.main .right .salaat-times ul { left: 96px; }
+	.foot .links .column { width: 28%; }
+	.foot .links .column:nth-child(3),
+	.foot .links .column:nth-child(5) { display: none; }
+	.page-default .featured .hot-news .item { width: 250px; height: 150px; }
+	.page-default .featured .headlines .item { height: 300px; }
+	.page-default .featured .headlines .item a .body h4 { margin: 40px 20px; }
+	.page-default .featured .headlines .item a .body h4 span { font-size: 20px; line-height: 22px; padding: 1px 3px 3px 3px; }
+	.page-default .featured .headlines-nav { width: 460px; height: 20px; margin: -40px auto 0; }
+	.page-default .featured .headlines-nav .item { width: 15px; height: 15px; }
+	.page-default .featured .fixed { height: 300px; }
+	.page-default .featured .fixed .lahika { width: 230px; height: 300px; }
+	.page-default .featured .fixed .ayet-hadis { left: 234px; width: 133px; height: 102px; }
+	.page-default .featured .fixed .vecize { top: 0; left: 371px; width: 133px; height: 102px; }
+	.page-default .featured .fixed .caricature { top: 106px; left: 234px; width: 270px; height: 194px; }
+	.page-default .editorial .item,
+	.page-default .editorial .item.id-0 { width: 260px; }
+	.page-default .authors .item { width: 208px; }
+	.page-default .magazines a { margin-left: 10px; }
+	.page-content-list { width: 504px; }
+	.page-content-list .list .item { width: 239px; }
+	.page-content-list .category-headlines .item { width: 450px; height: 250px; }
+	.page-content-list .category-news { width: 529px; }
+	.page-content-details .content-image { height: 300px; }
+	.page-content-details .content-image iframe { height: 292px; }
+	.page-content-details .details { width: 100%; }
+	.page-content-details .details .dealer-notice { height: 58px !important; }
+	.page-content-details .details .previous-contents .item { width: 214px; }
+	.page-content-details.type-2 .details .previous-contents .item { width: 214px; }
+	.page-content-details .related-contents { width: 100%; margin-top: 15px; }
+	.page-content-details.type-2 .related-contents .item { float: none; width: auto; height: auto; }
+	.page-content-details.type-2 .related-contents .item a .image { width: 110px; height: 70px; margin: 0 10px 0 0; }
+	.page-authors .todays-authors { width: 299px; }
+	.page-authors .opinions-head label,
+	.page-authors .opinions-head select { left: 100px; max-width: 175px; }
+}
+
+@media screen and (max-width: 520px) {
+	.scale, .main { width: 300px; }
+	.top .section-1 .right { left: 12px; }
+	.top .section-1 .right li:last-child { display: none; }
+	.top .section-2 .logo { top: 30px; }
+	.top .section-2 .logo .image { width: 185px; height: 40px; }
+	.top .section-2 .logo .spot { font-size: 5px; line-height: 6px; left: 115px; }
+	.top .section-2 .weather { left: auto; right: 0; }
+	.top .section-3 .navigation .spot .text { left: 5px; }
+	.top .section-3 .navigation .spot .date { display: none; }
+	.top .section-3 .navigation .bar .menu .id-0,
+	.top .section-3 .navigation .bar .menu .id-4 { display: none; }
+	.top .section-3 .navigation .bar .menu .all .item .label { display: none; }
+	.top .section-3 .navigation .bar .menu .all .item:before { content: "MENÜ "; }
+	.top .section-3 .navigation .bar .menu .all .sub-menu { width: 278px; margin-right: -150px; }
+	.top .section-3 .navigation .bar .search input { width: 140px; }
+	.main .right .archive .schedule { margin-left: 0; }
+	.main .right .e-newspaper a { margin-left: 18px; }
+	.main .right .salaat-times .remainder { left: 21px; }
+	.main .right .salaat-times ul { left: 16px; }
+	.foot .links .column { width: 42%; }
+	.foot .links .column:nth-child(3),
+	.foot .links .column:nth-child(4),
+	.foot .links .column:nth-child(5) { display: none; }
+	.page-default .featured .hot-news .item { width: 148px; height: 100px; }
+	.page-default .featured .hot-news .item a .body h4 { font-size: 15px; line-height: 18px; padding: 20px 10px 10px; background-position-y: 30%; }
+	.page-default .featured .headlines .item { height: 250px; }
+	.page-default .featured .headlines .item a .body h4 { margin: 36px 20px; }
+	.page-default .featured .headlines-nav { width: 260px; height: 16px; padding: 10px; margin: -36px auto 0; }
+	.page-default .featured .headlines-nav .item { width: 9px; height: 9px; margin: 1px; box-shadow: 0 0 12px #000; }
+	.page-default .featured .headlines-nav .selected { border: solid 2px #fff; border-radius: 7px; margin: 0; }
+	.page-default .featured .fixed { height: 576px; }
+	.page-default .featured .fixed .lahika { width: 300px; height: 250px; }
+	.page-default .featured .fixed .ayet-hadis { top: 254px; left: 0; width: 148px; height: 102px; }
+	.page-default .featured .fixed .vecize { top: 254px; left: 152px; width: 148px; height: 102px; }
+	.page-default .featured .fixed .caricature { top: 360px; left: 0; width: 300px; height: 216px; }
+	.page-default .editorial .item.id-0 { width: 250px; height: 193px; margin: 0 0 20px 24px; }
+	.page-default .editorial .item.id-0 a .image { width: 100%; height: 148px; margin: 0 0 10px 0; }
+	.page-default .editorial .item.id-4 { position: relative; top: 0px; left: 41px; }
+	.page-default .magazines a { margin-left: 25px; }
+	.page-content-list { width: 300px; }
+	.page-content-list .list .item { width: 300px; }
+	.page-content-list .category-headlines .item { width: 246px; height: 200px; }
+	.page-content-list .category-news { width: 325px; }
+	.page-content-list .category-news .item { height: 249px; }
+	.page-content-list .category-news .item a .image { height: 150px; }
+	.page-content-details .author .follow #twitter-widget-1 { display: none; }
+	.page-content-details .content-image { height: 200px; }
+	.page-content-details .content-image iframe { height: 175px; }
+	.page-content-details .details .dealer-notice { height: 34px !important; }
+	.page-content-details .details .previous-contents .item { width: 248px; }
+	.page-content-details.type-2 .details .previous-contents .item { width: 247px; height: 204px; margin-bottom: 12px; }
+	.page-content-details.type-2 .details .previous-contents .item a .image { height: 150px; }
+	.page-authors .all-authors { width: 275px; margin: 0; top: 0; }
+
+	.main .right .banner.area-5,
+	.main .right .banner.area-7 { display: block; }
+}
+
+@media screen and (max-device-width: 480px) {
+	.main .right .archive .schedule { left: 18px; }
+	.main .right .archive .schedule select { font-size: 12px; }
+	.main .right .archive .schedule input { font-size: 13px; }
+}

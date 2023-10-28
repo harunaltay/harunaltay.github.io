@@ -1,0 +1,109 @@
+﻿* { margin: 0; padding: 0; zoom: 1; }
+ul, ol { list-style: none; }
+fieldset, img { border: none; }
+caption, th { text-align: left; }
+table { border-collapse: collapse; border-spacing: 0; }
+
+body { color: #333; font: 12px/18px Arial; border: 0; margin: 0; }
+input, select, textarea { font: 12px/18px Arial; }
+h1 { font-size: 34px; line-height: 50px; }
+h2 { font-size: 24px; line-height: 30px; }
+h3 { font-size: 18px; line-height: 24px; }
+h4 { font-size: 14px; line-height: 18px; }
+hr { clear: both; height: 1px; border: none; border-top: solid 1px #eee; }
+a { color: #3478c3; text-decoration: none; }
+a:hover { text-decoration: underline; }
+div { overflow: hidden; }
+cite { font-style: normal; }
+
+.clear { clear: both; }
+.clearer { clear: both; display: block; margin: 0; padding: 0; height: 0; line-height: 1px; font-size: 1px; }
+.radius { border-radius: 5px; }
+.shadow { box-shadow: rgba(0, 0, 0, 0.25) 0 1px 3px 1px; }
+.shadow:nth-child(1n) { border: none !important; }
+.paper { overflow: visible; position: relative; }
+.paper:after { content: ""; background: rgba(0, 0, 0, 0.5); bottom: 15px; right: 10px; width: 50%; top: 10px; max-width: 300px; -webkit-box-shadow: 0 15px 10px rgba(0, 0, 0, 0.5); -moz-box-shadow: 0 15px 10px rgba(0, 0, 0, 0.5); box-shadow: 0 15px 10px rgba(0, 0, 0, 0.5); -webkit-transform: rotate(3deg); -moz-transform: rotate(3deg); -o-transform: rotate(3deg); -ms-transform: rotate(3deg); transform: rotate(3deg); position: absolute; z-index: -1; }
+.inner-shadow { box-shadow: rgba(0, 0, 0, 0.2) 0 1px 3px 0px inset; }
+.inner-shadow:nth-child(1n) { border: none; }
+.box { border: 1px solid; border-bottom: 2px solid; border-color: #e5e5e5 #dbdbdb #d2d2d2; }
+.inner-box { border: 1px solid; border-top: 2px solid; border-color: #d2d2d2 #dbdbdb #e5e5e5; }
+.fill-bg { background: transparent no-repeat center; background-size: cover; display: block; behavior: url(/common/scripts/backgroundsize.min.htc); }
+.fill-bg:nth-child(1n) { behavior: none; }
+.bg-gradient { box-shadow: inset 0px 0px 20px rgba(0, 0, 0, 0.2); }
+.arrow-down { width: 0; height: 0; border-left: 4px solid transparent;	border-right: 4px solid transparent; border-top: 4px solid #000; }
+.more { white-space: nowrap; padding-right: 10px; background: url(../images/more-arrow.gif) no-repeat 100% 50%; }
+.guide { display: none; width: 0px; height: 0px; overflow: hidden; position: absolute; }
+.piped li { float: left; }
+.piped li a { border-left: 1px solid #ccc; padding: 0 10px; }
+.piped li a.first { border: none; }
+.play { background: url(../images/play.png) no-repeat center; background-size: 25%; width: 100%; height: 100%; }
+.gallery { color: #fff; font-size: 40px; line-height: 20px; text-align: center; width: 100%; height: 100%; padding-top: 25%; opacity: 0.8; filter: opacity(80); overflow: visible; }
+
+.form { clear: both; overflow: auto; }
+.form h3 { margin: 10px 0; }
+.form p { margin: 0 0 10px; }
+.form p label { font-weight: bold; }
+.form p .check-box label { font-weight: normal; }
+.form p .radio-button-list label { font-weight: normal; }
+.form p .TextBox { width: 98%; margin: 2px 0; }
+.form p .Button { padding: 0 7px; }
+.form .Info { color: #999; font-size: 12px; }
+.form .Error { color: #ff0000; }
+.form .Success { color: #008000; }
+
+.list { position: relative; }
+.list .item { border-top: solid 1px #eee; padding: 20px 0; position: relative; }
+.list .item.id-0 { border: none; }
+.list .item a { color: #333; line-height: 18px; display: block; overflow: auto; }
+.list .item a:hover { text-decoration: none; }
+.list .item a .image { float: left; width: 160px; height: 90px; margin-right: 20px; }
+.list .item a .body { display: table; *display: inline-block; }
+.list .item a .body p { color: #666; margin: 0 !important; }
+.list .item a .body cite { color: #999; font-size: 12px; }
+.list .item a .body cite.author { color: #666; font-size: 12px; }
+.list .navigate { text-align: center; }
+.list .navigate a { display: inline-block; width: 15px; height: 15px; }
+.list .navigate a.previous { background: url(../images/arrow-previous.png) no-repeat 0 50%; }
+.list .navigate a.next { background: url(../images/arrow-next.png) no-repeat 100% 50%; }
+
+.poll-form li.question { margin-bottom: 5px; }
+.poll-form li.submit input { margin-top: 5px; }
+
+.poll-results li { margin: 5px 0; overflow: auto; }
+.poll-results li span { color: #999; }
+.poll-results li .percentage-outer { background-color: #fff; border: solid 1px #eee; overflow: hidden; }
+.poll-results li .percentage-bar { background-color: #6699ff; height: 7px; }
+
+.page-content-details .details p { margin-bottom: 10px; }
+.page-content-details .details cite { color: #999; }
+.page-content-details .details .image { width: 640px; height: 360px; margin-bottom: 10px; }
+.page-content-details .details .date { font-size: 12px; margin-bottom: 10px; }
+.page-content-details .details .intro { font-size: 20px; line-height: 26px; margin-bottom: 10px; }
+.page-content-details .details .body { font-size: 16px; line-height: 22px; margin-bottom: 10px; }
+.page-content-details .details .read-count { font-size: 12px; border-top: solid 1px #eee; margin: 10px 0 0; padding: 10px 0 0; }
+.page-content-details .details .comment-box { clear: both; margin: 10px 0; overflow: auto; }
+.page-content-details .details .comment-box h3 { margin: 10px 0; }
+.page-content-details .details .comment-list ul li { font-size: 12px; border-top: solid 1px #eee; padding: 10px 0; }
+.page-content-details .details .comment-list ul li.first { border: none; }
+.page-content-details .details .comment-list ul li cite { display: block; margin: 4px 0; }
+.page-content-details .details .comment-list ul li p { margin: 0; }
+
+.pager { color: #999; margin-top: 20px; }
+.pager div { float: left; padding: 0.1px; }
+.pager .previous { width: 12%; }
+.pager .previous a { padding-left: 17px; background: url(../images/arrow-previous.png) no-repeat 0 50%; }
+.pager .pages { text-align: center; width: 75.8%; }
+.pager .pages span { padding: 0 1px; }
+.pager .next { text-align: right; width: 12%; }
+.pager .next a { padding-right: 17px; background: url(../images/arrow-next.png) no-repeat 100% 50%; }
+
+.banner { position: relative; }
+.banner a { float: left; width: 100%; height: 100%; position: absolute; }
+.banner a img { width: 100%; height: 100%; }
+.banner object,
+.banner embed,
+.banner iframe { float: left; width: 100%; height: 100%; }
+
+/*Mobile*/
+@media screen and (max-device-width: 480px) { html { -webkit-text-size-adjust: none; -ms-text-size-adjust: none; } }
+/*@-ms-viewport { width: device-width; }*/
