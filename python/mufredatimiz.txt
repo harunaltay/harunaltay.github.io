@@ -8,12 +8,44 @@ Algoritma ve Akış Şemaları
 
 Bilgisayar Kavramı ve Diller ve Python Dili
 
-Değişkenler ve Temel Veri Tipleri 
-(int, float, string, boolean)
+Merhaba Dünya 1 - Online Free IDE'ler
+Google: "python editor ide online free"
+https://www.online-python.com/
+https://coderspace.io/en/tools/online-python-editor/
+https://www.onlinegdb.com/online_python_compiler
+https://www.w3schools.com/python/python_compiler.asp
+
+
+Merhaba Dünya 2 - Online Colab
+
+Bilgisayarınız Python ve bir editör veya IDE yüklenmesi
+https://www.python.org/
+Pythonu indir ve bilgisayarına yükle, her kullanı için yükle
+
+Merhaba Dünya 3 - Satır Konutu
+Merhaba	Dünya 4 - IPython
+Merhaba Dünya 5 - IDLE
+
+Bilgisayara Anaconda yazılımının yüklenmesi
+
+Merhaba Dünya 6 - Jupyter Notebook
+Merhaba Dünya 7 - JupyterLab
+Merhaba Dünya 8 - Spyder
+
+Merhaba Dünya 9 - PyCharm
+
+Merhaba Dünya 10 - Visual Studio Code
+
+Değişkenler isimlendirme kuralları ve
+Temel Veri Tipleri 
+(int, float, str, bool)
 Tip Değiştirme (Casting)
+
+Yorum Comment Satırı ve Bloğu
 
 Temel Sayısal Veri Tipleri üzerinde İşlemler
 (Operators, +  -  *  /  //  %  **)
+Atama Operatörleri (=, +=, -=, *=, /=, %=, //=)
 Python'u Hesap Makinesi Olarak Kullanma
 
 Boolean Tipi Üzerinde İşlemler - Karşılaştırma Operatörleri
@@ -25,7 +57,7 @@ Hazır class/obje'leri kullanma, string, date gibi
 String Tipi Üzerinde İşlemler
 String Obje/Sınıfı kullanarak, ve + gibi operatörler kullanarak
 
-Şart ifadeleri - if, if-else, if-elif, switch
+Şart ifadeleri - if, if-else, if-elif, switch/case
 
 Fonksiyonlar
 girdisiz, çıktısız
@@ -36,6 +68,8 @@ girdili çıktılı
 çok sayılı çıktılı
 
 Döngüler Loops - (while, for, range)
+break
+continue
 
 String Karakter Dizisi İşlemleri
 
