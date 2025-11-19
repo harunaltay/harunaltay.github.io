@@ -5,7 +5,6 @@
     <title>Egitimciler</title>
   </head>
   <body>
-    <p><a href="index.html" title="index">Python Ana Sayfa</a></p>
     <p><br>
     </p>
     <p>Python Eğitimleri</p>
@@ -112,6 +111,7 @@ https://www.domestika.org/en/courses/5228-introduction-to-python-programming</p>
       https://learn.microsoft.com/en-us/training/dotnet/?source=learn<br>
       <br>
       https://learn.microsoft.com/en-us/training/browse/?products=dotnet<br>
+      <br>
     </p>
   </body>
 </html>
