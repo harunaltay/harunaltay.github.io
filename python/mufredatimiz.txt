@@ -18,6 +18,11 @@ https://www.w3schools.com/python/python_compiler.asp
 
 Merhaba Dünya 2 - Online Colab
 
+
+Burada kaldım!
+
+
+
 Bilgisayarınız Python ve bir editör veya IDE yüklenmesi
 https://www.python.org/
 Pythonu indir ve bilgisayarına yükle, her kullanı için yükle
