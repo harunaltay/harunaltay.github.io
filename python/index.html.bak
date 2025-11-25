@@ -5,14 +5,22 @@
     <title>Python</title>
   </head>
   <body>
-    <p>Merhaba Python</p>
+    <p><a href="../index.html" title="ana sayfa">ana sayfa</a></p>
     <p><br>
+    </p>
+    <p>Merhaba Python</p>
+    <p><a href="mufredatimiz.html" title="mufredatimiz" target="_blank">müfredatımız</a></p>
+    <p>-------------------------------------------------------------------------------<br>
     </p>
     <p><a href="kitaplar-kitapcilar-turkce.html" title="kitaplar-kitapcilar-turkce">kitaplar-kitapcilar-turkce</a></p>
     <p>kitaplar-kitapcilar-ing</p>
     <p><a href="egitimciler.html" title="Eğitimciler">egitimciler </a>-
       kisiler, kuruluslar, mufredatlari </p>
-    <p><a href="mufredatimiz.html" title="mufredatimiz" target="_blank">müfredatımız</a></p>
+    <p>-------------------------------------------------------------------------------</p>
+    <p><br>
+    </p>
+    <p><br>
+    </p>
     <p><br>
     </p>
     <p><br>
