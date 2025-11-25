@@ -12,6 +12,13 @@ Bu aşağıdakilerin hepsini ve daha fazlasını Google'den arayıp bulabilirsin
 --- Algoritma ve Akış Şemaları ------------------------------------------------
 -------------------------------------------------------------------------------
 
+Algoritma
+
+Algoritmayı ifade şekilleri
+	1. Düz Metin
+	2. Kaba-Kod (Pseudo-Code)
+	3. Akış Şemaları (Flow Charts)	
+
 
 -------------------------------------------------------------------------------
 --- Python Giriş --------------------------------------------------------------
