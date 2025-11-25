@@ -6,121 +6,185 @@
   </head>
   <body>
     <p><a href="index.html" title="ana sayfa python">ana sayfa python</a><br>
-      <br>
-      son güncelleme: 2025 11 21 23:00</p>
-    <p><br>
-      Python Müfredat</p>
-    <p><br>
     </p>
-    <p>--- Python Giriş - Procedural Programlama
-      --------------------------------------------<br>
-      <br>
-      Algoritma ve Akış Şemaları<br>
-      <br>
-      Bilgisayar Kavramı ve Diller ve Python Dili<br>
-      <br>
-      Merhaba Dünya 1 - Online Free IDE'ler<br>
-      Google: "python editor ide online free"<br>
-      https://www.online-python.com/<br>
-      https://coderspace.io/en/tools/online-python-editor/<br>
-      https://www.onlinegdb.com/online_python_compiler<br>
-      https://www.w3schools.com/python/python_compiler.asp<br>
-      <br>
-      <br>
-      Merhaba Dünya 2 - Online Colab<br>
-      <br>
-      Bilgisayarınız Python ve bir editör veya IDE yüklenmesi<br>
-      https://www.python.org/<br>
-      Pythonu indir ve bilgisayarına yükle, her kullanı için yükle<br>
-      <br>
-      Merhaba Dünya 3 - Satır Konutu<br>
-      Merhaba&nbsp;&nbsp;&nbsp; Dünya 4 - IPython<br>
-      Merhaba Dünya 5 - IDLE<br>
-      <br>
-      Bilgisayara Anaconda yazılımının yüklenmesi<br>
-      <br>
-      Merhaba Dünya 6 - Jupyter Notebook<br>
-      Merhaba Dünya 7 - JupyterLab<br>
-      Merhaba Dünya 8 - Spyder<br>
-      <br>
-      Merhaba Dünya 9 - PyCharm<br>
-      <br>
-      Merhaba Dünya 10 - Visual Studio Code<br>
-      <br>
-      Değişkenler isimlendirme kuralları ve<br>
-      Temel Veri Tipleri <br>
-      (int, float, str, bool)<br>
-      Tip Değiştirme (Casting)<br>
-      <br>
-      Yorum Comment Satırı ve Bloğu<br>
-      <br>
-      Temel Sayısal Veri Tipleri üzerinde İşlemler<br>
-      (Operators, +&nbsp; -&nbsp; *&nbsp; /&nbsp; //&nbsp; %&nbsp; **)<br>
-      Atama Operatörleri (=, +=, -=, *=, /=, %=, //=)<br>
-      Python'u Hesap Makinesi Olarak Kullanma<br>
-      <br>
-      Boolean Tipi Üzerinde İşlemler - Karşılaştırma Operatörleri<br>
-      (Operators, &lt;&nbsp; &gt;&nbsp; &lt;=&nbsp; &gt;=&nbsp; =! ==)<br>
-      <br>
-      OOP'ye çok ön bir giriş<br>
-      Hazır class/obje'leri kullanma, string, date gibi<br>
-      <br>
-      String Tipi Üzerinde İşlemler<br>
-      String Obje/Sınıfı kullanarak, ve + gibi operatörler kullanarak<br>
-      <br>
-      Şart ifadeleri - if, if-else, if-elif, switch/case<br>
-      <br>
-      Fonksiyonlar<br>
-      girdisiz, çıktısız<br>
-      girdisiz çıktılı<br>
-      girdili çıktısız<br>
-      girdili çıktılı<br>
-      çok sayılı girdili<br>
-      çok sayılı çıktılı<br>
-      <br>
-      Döngüler Loops - (while, for, range)<br>
-      break<br>
-      continue<br>
-      <br>
-      String Karakter Dizisi İşlemleri<br>
-      <br>
-      Diziler ve Listeler (bu ikisi de ne? Farklı şeyler mi?)<br>
-      <br>
-      list<br>
-      tuple<br>
-      dictionary<br>
-      set<br>
-      (Bu 4 adet tip hangi sıralamada anlatılacak?)<br>
-      <br>
-      <br>
-      <br>
-      <br>
-      <br>
-      --- Python Giriş - Object Oriented Programlama
-      ---------------------------------------<br>
-      <br>
-      Nesne ve Sınıf Kavramları<br>
-      <br>
-      <br>
-      --- Python Giriş - Görsel Programlama
-      ------------------------------------------------<br>
-      <br>
-      Tkinter<br>
-      <br>
-      <br>
-      --- Python İleri Pogramlama
-      ----------------------------------------------------------<br>
-      <br>
-      <br>
-      <br>
-      <br>
-      --- Python - Projeler
-      -----------------------------------------------------------------<br>
-      <br>
-      <br>
-      <br>
-      <br>
-      --- Python - Oyunlar
-      -----------------------------------------------------------------</p>
+    <br>
+    <br>
+    son güncelleme: 2025 11 25 18:00<br>
+    <br>
+    Python Müfredat<br>
+    <br>
+    Google: <br>
+    Bu aşağıdakilerin hepsini ve daha fazlasını Google'den arayıp
+    bulabilirsiniz.<br>
+    <br>
+    Bilgisayar Kavramı ve Diller ve <br>
+    Python Dili<br>
+    <br>
+    web sayfamdaki eski visio buraya uyar<br>
+    internetten buraya görsel bul<br>
+    <br>
+    Kitaplar (Türkçe)<br>
+    ve yayınevleri<br>
+    Google'den de bulabilirsiniz<br>
+    <br>
+    Kitaplar (ingilizce)<br>
+    amazon.com<br>
+    amazon.com.tr<br>
+    <br>
+    Online eğitim veren web siteleri<br>
+    Udemy.com<br>
+    linkedin.com/learning<br>
+    <br>
+    Yerinde eğitim veren web siteleri<br>
+    <br>
+    <br>
+-------------------------------------------------------------------------------<br>
+    --- Algoritma ve Akış Şemaları
+    ------------------------------------------------<br>
+-------------------------------------------------------------------------------<br>
+    <br>
+    <br>
+-------------------------------------------------------------------------------<br>
+    --- Python Giriş
+    --------------------------------------------------------------<br>
+-------------------------------------------------------------------------------<br>
+    <br>
+    Yüklemeler ve <br>
+    Merhaba Dünyalar<br>
+    <br>
+    <br>
+-------------------------------------------------------------------------------<br>
+    --- Python Giriş - Prosedürel (Procedural) Programlama
+    ------------------------<br>
+-------------------------------------------------------------------------------<br>
+    <br>
+    Değişkenler isimlendirme kuralları ve<br>
+    Temel Veri Tipleri <br>
+    (int, float, str, bool)<br>
+    Tip Değiştirme (Casting)<br>
+    <br>
+    Yorum Comment Satırı ve Bloğu<br>
+    <br>
+    Temel Sayısal Veri Tipleri üzerinde İşlemler<br>
+    (Operators, +&nbsp; -&nbsp; *&nbsp; /&nbsp; //&nbsp; %&nbsp; **)<br>
+    Atama Operatörleri (=, +=, -=, *=, /=, %=, //=)<br>
+    Python'u Hesap Makinesi Olarak Kullanma<br>
+    <br>
+    Boolean Tipi Üzerinde İşlemler - Karşılaştırma Operatörleri<br>
+    (Operators, &lt;&nbsp; &gt;&nbsp; &lt;=&nbsp; &gt;=&nbsp; =! ==)<br>
+    <br>
+    ---<br>
+    <br>
+    ekrandan veri giriş çıkışı<br>
+    input()<br>
+    print()<br>
+    <br>
+    ---<br>
+    <br>
+    OOP'ye çok ön bir giriş<br>
+    Hazır class/obje'leri kullanma, string, date, math, int, float, bool gibi<br>
+    <br>
+    string sonraya kalsın<br>
+    String Tipi Üzerinde İşlemler<br>
+    String Obje/Sınıfı kullanarak, ve + gibi operatörler kullanarak<br>
+    <br>
+    ---<br>
+    <br>
+    Şart ifadeleri<br>
+    if<br>
+    if-else<br>
+    if-elif<br>
+    match-case (switch/case)<br>
+    <br>
+    ---<br>
+    <br>
+    Döngüler (Loops)<br>
+    <br>
+    while<br>
+    for, range<br>
+    <br>
+    break<br>
+    continue<br>
+    <br>
+    ---<br>
+    <br>
+    Fonksiyonlar<br>
+    <br>
+    girdisiz, çıktısız<br>
+    girdisiz çıktılı<br>
+    girdili çıktısız<br>
+    girdili çıktılı<br>
+    çok sayılı girdili<br>
+    çok sayılı çıktılı<br>
+    <br>
+    lambda<br>
+    özyinelemeli (rekürsif, recursive)<br>
+    <br>
+    ---<br>
+    <br>
+    String<br>
+    <br>
+    Karakter Dizisi İşlemleri<br>
+    <br>
+    Dizilere Pythonda Liste (list) deniliyor. Aynı şeyler.<br>
+    <br>
+    ---<br>
+    <br>
+    list<br>
+    <br>
+    ---<br>
+    <br>
+    tuple (demet)<br>
+    dictionary (sözlük)<br>
+    set (küme)<br>
+    <br>
+    (Bu 3 adet tip hangi sıralamada anlatılacak?)<br>
+    <br>
+    <br>
+-------------------------------------------------------------------------------<br>
+    --- Python Giriş - Nesne Yönelimli (Object Oriented) Programlama
+    --------------<br>
+-------------------------------------------------------------------------------<br>
+    <br>
+    Nesne<br>
+    Sınıf<br>
+    <br>
+    Kalıtım<br>
+    Modül<br>
+    PIP<br>
+    <br>
+    <br>
+-------------------------------------------------------------------------------<br>
+    --- turtle ile çizim - Oyunlar
+    ----------------------------------------------------------<br>
+-------------------------------------------------------------------------------<br>
+    <br>
+    <br>
+-------------------------------------------------------------------------------<br>
+    --- Python Giriş - Görsel Programlama (GUI)
+    -----------------------------------<br>
+-------------------------------------------------------------------------------<br>
+    <br>
+    Tkinter<br>
+    <br>
+    <br>
+-------------------------------------------------------------------------------<br>
+    --- Python İleri Pogramlama
+    ---------------------------------------------------<br>
+-------------------------------------------------------------------------------<br>
+    <br>
+    <br>
+-------------------------------------------------------------------------------<br>
+    --- Python - Projeler
+    ---------------------------------------------------------<br>
+-------------------------------------------------------------------------------<br>
+    <br>
+    <br>
+-------------------------------------------------------------------------------<br>
+    --- Python - Oyunlar
+    ----------------------------------------------------------<br>
+-------------------------------------------------------------------------------<br>
+    <br>
+    <br>
   </body>
 </html>
