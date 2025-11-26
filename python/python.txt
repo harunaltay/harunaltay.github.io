@@ -1,12 +1,19 @@
-
-
-son güncelleme: 2025 11 25 18:00
+son güncelleme: 2025 11 26 13:00
 
 Python Müfredat
 
 Google:
 Bu aşağıdakilerin hepsini ve daha fazlasını Google'den arayıp bulabilirsiniz.
 
+-------------------------------------------------------------------------------
+---
+-------------------------------------------------------------------------------
+
+Bilgisayar Kavramı ve Diller ve
+Python Dili
+
+web sayfamdaki eski visio buraya uyar
+internetten buraya görsel bul
 
 -------------------------------------------------------------------------------
 --- Algoritma ve Akış Şemaları ------------------------------------------------
@@ -15,16 +22,16 @@ Bu aşağıdakilerin hepsini ve daha fazlasını Google'den arayıp bulabilirsin
 Algoritma
 
 Algoritmayı ifade şekilleri
-	1. Düz Metin
-	2. Kaba-Kod (Pseudo-Code)
-	3. Akış Şemaları (Flow Charts)	
+    1. Düz Metin
+    2. Kaba-Kod (Pseudo-Code)
+    3. Akış Şemaları (Flow Charts)   
 
 
 -------------------------------------------------------------------------------
 --- Python Giriş --------------------------------------------------------------
 -------------------------------------------------------------------------------
 
-Yüklemeler ve 
+Yüklemeler ve
 Merhaba Dünyalar
 
 
@@ -33,7 +40,7 @@ Merhaba Dünyalar
 -------------------------------------------------------------------------------
 
 Değişkenler isimlendirme kuralları ve
-Temel Veri Tipleri 
+Temel Veri Tipleri
 (int, float, str, bool)
 Tip Değiştirme (Casting)
 
@@ -151,6 +158,4 @@ Tkinter
 
 -------------------------------------------------------------------------------
 --- Python - Oyunlar ----------------------------------------------------------
--------------------------------------------------------------------------------
-
-
+------------------------------------------------------------------------------- 

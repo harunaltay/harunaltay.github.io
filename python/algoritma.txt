@@ -1,21 +1,6 @@
+Algoritma
 
-
-Algoritma ve Akış Şemaları
-
-
-
----
-
-Algoritmalar
-
-
-
----
-
-Akış Şemaları
-
-
-
-
-
-
+Algoritmayı ifade şekilleri
+    1. Düz Metin
+    2. Kaba-Kod (Pseudo-Code)
+    3. Akış Şemaları (Flow Charts)    
