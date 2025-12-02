@@ -65,6 +65,7 @@ Algoritmayı ifade şekilleri
     3. Akış Şemaları (Flow Charts)   
 
 Akış şeması çizmek için kullanılabilecek yazılımlar:
+
 Flowgorithm - www.flowgorithm.org
 Raptor - raptor.martincarlisle.com
 Google Lucidchart Diagrams 

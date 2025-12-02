@@ -5,7 +5,7 @@
     <title>Egitimciler</title>
   </head>
   <body>
-    <p><a href="index.html" title="index" target="_blank">Python Ana Sayfa</a></p>
+    <p><a href="index.html" title="index">Python Ana Sayfa</a></p>
     <p><br>
     </p>
     <p>Python Eğitimleri</p>
