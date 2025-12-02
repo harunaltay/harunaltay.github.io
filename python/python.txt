@@ -1,19 +1,12 @@
 son güncelleme: 2025 12 01 13:00
 
+
 Python Müfredat
+
 
 Google:
 Bu aşağıdakilerin hepsini ve daha fazlasını Google'den arayıp bulabilirsiniz.
 
--------------------------------------------------------------------------------
----
--------------------------------------------------------------------------------
-
-Bilgisayar Kavramı ve Diller ve
-Python Dili
-
-web sayfamdaki eski visio buraya uyar
-internetten buraya görsel bul
 
 -------------------------------------------------------------------------------
 --- Algoritma ve Akış Şemaları ------------------------------------------------
