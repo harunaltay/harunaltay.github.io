@@ -2,8 +2,19 @@
 
 
 
+Google: 
+Bu aşağıdakilerin hepsini ve daha fazlasını Google'den arayıp bulabilirsiniz.
+
+Bilgisayar Programlama ve Dilleri ve 
+Python Dili
+
+web sayfamdaki eski visio buraya uyar
+internetten buraya görsel bul
 
 
+-------------------------------------------------------------------------------
+--- Programlama Dilleri Sıralamaları ------------------------------------------
+-------------------------------------------------------------------------------
 
 Google: Programming Languages Popularity 2025 
 
@@ -21,6 +32,9 @@ https://redmonk.com/sogrady/2025/06/18/language-rankings-1-25/
 
 https://miro.medium.com/v2/resize:fit:720/format:webp/1*mGoThqiR2gd4HzNiltptMw.png
 
+
+-------------------------------------------------------------------------------
+--- Python Tutorial -----------------------------------------------------------
 -------------------------------------------------------------------------------
 
 Google: python tutorial
@@ -38,16 +52,30 @@ Google: python for beginners
 
 Youtube: python for beginners
 
+
+-------------------------------------------------------------------------------
+--- Algoritma ve Akış Şemaları ------------------------------------------------
 -------------------------------------------------------------------------------
 
-Google: 
-Bu aşağıdakilerin hepsini ve daha fazlasını Google'den arayıp bulabilirsiniz.
+Algoritma
 
-Bilgisayar Kavramı ve Diller ve 
-Python Dili
+Algoritmayı ifade şekilleri
+    1. Düz Metin
+    2. Kaba-Kod (Pseudo-Code)
+    3. Akış Şemaları (Flow Charts)   
 
-web sayfamdaki eski visio buraya uyar
-internetten buraya görsel bul
+Akış şeması çizmek için kullanılabilecek yazılımlar:
+Flowgorithm - www.flowgorithm.org
+Raptor - raptor.martincarlisle.com
+Google Lucidchart Diagrams 
+Google WireframePro - app.mockflow.com
+Visio (Microsoft)
+UML Activity Diagram
+
+Google: flowgorithm vs raptor
+
+-------------------------------------------------------------------------------
+
 
 Kitaplar (Türkçe)
 ve yayınevleri

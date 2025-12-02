@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>mufredatimiz</title>
+    <title>Python</title>
   </head>
   <body>
     <p><a href="index.html" title="ana sayfa python">ana sayfa python</a><br>
@@ -38,8 +38,7 @@
     &nbsp;&nbsp;&nbsp; 1. Düz Metin<br>
     &nbsp;&nbsp;&nbsp; 2. Kaba-Kod (Pseudo-Code)<br>
     &nbsp;&nbsp;&nbsp; 3. Akış Şemaları (Flow Charts)&nbsp;&nbsp;&nbsp; <br>
-    <p><br>
-    </p>
+    <br>
     <p>-------------------------------------------------------------------------------</p>
     --- Python Giriş
     --------------------------------------------------------------<br>
@@ -63,12 +62,14 @@
     <br>
     Temel Sayısal Veri Tipleri üzerinde İşlemler<br>
     (Operators, +&nbsp; -&nbsp; *&nbsp; /&nbsp; //&nbsp; %&nbsp; **)<br>
-    Atama Operatörleri (=, +=, -=, *=, /=, %=, //=)<br>
     Python'u Hesap Makinesi Olarak Kullanma<br>
+    <br>
+    Atama Operatörleri (=, +=, -=, *=, /=, %=, //=)<br>
     <br>
     Boolean Tipi Üzerinde İşlemler - Karşılaştırma Operatörleri<br>
     (Operators, &lt;&nbsp; &gt;&nbsp; &lt;=&nbsp; &gt;=&nbsp; =! ==)<br>
     <br>
+    (in, not in)<br>
     ---<br>
     <br>
     ekrandan veri giriş çıkışı<br>
@@ -136,7 +137,10 @@
     <br>
     (Bu 3 adet tip hangi sıralamada anlatılacak?)<br>
     <br>
-    <br>
+    <p> ---</p>
+    <p>Hata Denetimi</p>
+    <p>---</p>
+    <p>Dosya İşlemleri</p>
 -------------------------------------------------------------------------------<br>
     --- Python Giriş - Nesne Yönelimli (Object Oriented) Programlama
     --------------<br>
@@ -179,6 +183,6 @@
 -------------------------------------------------------------------------------<br>
     --- Python - Oyunlar
     ----------------------------------------------------------<br>
-    -------------------------------------------------------------------------------
-    </body>
+-------------------------------------------------------------------------------
+  </body>
 </html>

@@ -1,4 +1,4 @@
-son güncelleme: 2025 11 26 13:00
+son güncelleme: 2025 12 01 13:00
 
 Python Müfredat
 
@@ -26,6 +26,16 @@ Algoritmayı ifade şekilleri
     2. Kaba-Kod (Pseudo-Code)
     3. Akış Şemaları (Flow Charts)   
 
+Akış şeması çizmek için kullanılabilecek yazılımlar:
+Flowgorithm - www.flowgorithm.org
+Raptor - raptor.martincarlisle.com
+Google Lucidchart Diagrams 
+Google WireframePro - app.mockflow.com
+Visio (Microsoft)
+UML Activity Diagram
+
+Google: flowgorithm vs raptor
+
 
 -------------------------------------------------------------------------------
 --- Python Giriş --------------------------------------------------------------
@@ -48,11 +58,14 @@ Yorum Comment Satırı ve Bloğu
 
 Temel Sayısal Veri Tipleri üzerinde İşlemler
 (Operators, +  -  *  /  //  %  **)
-Atama Operatörleri (=, +=, -=, *=, /=, %=, //=)
 Python'u Hesap Makinesi Olarak Kullanma
+
+Atama Operatörleri (=, +=, -=, *=, /=, %=, //=)
 
 Boolean Tipi Üzerinde İşlemler - Karşılaştırma Operatörleri
 (Operators, <  >  <=  >=  =! ==)
+
+(in, not in)
 
 ---
 
@@ -128,6 +141,7 @@ Hata Denetimi
 ---
 
 Dosya İşlemleri
+
 
 -------------------------------------------------------------------------------
 --- Python Giriş - Nesne Yönelimli (Object Oriented) Programlama --------------

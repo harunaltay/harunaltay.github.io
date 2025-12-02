@@ -1,4 +1,4 @@
-son güncelleme: 2025 11 26 13:00
+son güncelleme: 2025 12 01 13:00
 
 Python Müfredat
 
@@ -48,11 +48,14 @@ Yorum Comment Satırı ve Bloğu
 
 Temel Sayısal Veri Tipleri üzerinde İşlemler
 (Operators, +  -  *  /  //  %  **)
-Atama Operatörleri (=, +=, -=, *=, /=, %=, //=)
 Python'u Hesap Makinesi Olarak Kullanma
+
+Atama Operatörleri (=, +=, -=, *=, /=, %=, //=)
 
 Boolean Tipi Üzerinde İşlemler - Karşılaştırma Operatörleri
 (Operators, <  >  <=  >=  =! ==)
+
+(in, not in)
 
 ---
 
