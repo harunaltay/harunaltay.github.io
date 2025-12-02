@@ -1,7 +1,12 @@
 Kitaplar Türkçe
 
 
--1-
+-----------------------------------------------
+--- Sıfırdan Başlangıç için 4 kitap --------------------
+-----------------------------------------------
+
+
+- 1 -------------------------------------------------------------------------------------
 Çocuklar için Python
 Bülent Çobanoğlu Pusula Kitap 352 TL 2021
 https://www.pusulakitaplik.com/cocuklar-icin-python
@@ -24,13 +29,77 @@ https://www.pusulakitaplik.com/cocuklar-icin-python
 • Olay Tabanlı Projeler ve Yılan Oyunu
 
 
------------------------------------------------------------------------------------------
-ALGORİTMA BAŞLANGIÇ SETİ 2023 715 TL
+-------------------------------------------------------------------------------------------
+
+
+ALGORİTMA BAŞLANGIÇ SETİ 2023 715 TL (3 adet kitap)
 Kodlab
 https://www.youtube.com/@kodlabyayincilik/playlists
 
 
--2---------------------------------------------------------------------------------------
+- 2 ---------------------------------------------------------------------------------------
+PYTHON ile ALGORİTMA ve PROGRAMLAMA
+KUBİLAY ERKEÇ 2023 240 TL
+https://www.kodlab.com/ana-sayfa/641-python-ile-algoritma-ve-programlama-9786257440547.html
+www.kodlab.com/pdfviewer.php?file=https://kodlab.com/kitaponizleme/9786257440547.pdf
+https://www.youtube.com/watch?v=9Nw-M138M9g&list=PL3Z9GcBKYIFDc_Ki3_J8y1swX03OQNAul&index=1
+
+Programlamaya Giriş
+Problemler ve Çözüm Yöntemleri
+Yazılım Yaşam Döngüsü
+Algoritma Hazırlama
+Gerçek Hayattan Algoritma Örnekleri
+Akış Diyagramı Nasıl Oluşturulur?
+Neden Python?
+Bilgisayara Python IDE Kurulumu
+Python ile Veri Tipleri
+Kullanıcı ile Etkileşim
+Sayılar ve Aritmetik İşlemler
+Koşullu İşlemlerin Mantığı
+Python ile Döngüler
+Python ile Karakter Dizileri
+Karakter Dizisi Metotları
+Listeler ve Demetler
+Python Liste Metotları
+Python Demet Metotları
+Python ile Fonksiyon Mantığı
+Python ile Projeler
+
+(yukarıda set ve dict yok)
+
+
+- 3 ----------------------------------------------------------------------------------------
+PYTHON TABANLI ALGORİTMA
+Kadir Çamoğlu 2023 400 TL 
+https://www.kodlab.com/ana-sayfa/637-python-tabanli-algoritma--9786257440509.html
+www.kodlab.com/pdfviewer.php?file=https://kodlab.com/kitaponizleme/9786257440509.pdf
+
+Kitaptaki önemli başlıklardan bazıları şunlardır:
+ 
+·       Algoritma ve Programlama Kavramları
+·       Yazılım Geliştirme Süreci
+·       Programlama Süreci
+·       Algoritma Nedir? Nasıl Oluşturulur?
+·       Python Programlama Dili
+·       Python Kurulumu
+·       Komutlarla Çalışma
+·       Temel Veri Tipleri ve Değişkenler
+·       Metinlerle Çalışma
+·       Sayılarla Çalışma
+·       Tarih ve Zaman ile Çalışma
+·       Listeler, Demetler ve Kümelerle Çalışma
+·       Koşul Yapıları
+·       Döngüler
+·       Sözlük Yapılarıyla Çalışma
+·       Fonksiyon Yazma
+·       Hata Denetimi
+·       Temel Dosya İşlemleri
+·       Temel Arama ve Sıralama Algoritmaları
+·       Örnek Problemlerle Temel Algoritmalar (22 Adet)
+·       Çözümlü Alıştırmalı (21 Adet)
+
+
+- 4 ---------------------------------------------------------------------------------------
 ALGORİTMA VE PROGRAMLAMA MANTIĞI
 H.Burak Tungut 2024 240 TL
 https://www.kodlab.com/programlama/19-algoritma-ve-programlama-mantigi-9786055201241.html
@@ -72,77 +141,19 @@ Kitapta yer alan başlıca konu başlıkları şunlardır:
 • İstatistik ve Olasılık Problemleri
 
 
--3----------------------------------------------------------------------------------------
-PYTHON TABANLI ALGORİTMA
-Kadir Çamoğlu 2023 400 TL 
-https://www.kodlab.com/ana-sayfa/637-python-tabanli-algoritma--9786257440509.html
-www.kodlab.com/pdfviewer.php?file=https://kodlab.com/kitaponizleme/9786257440509.pdf
-
-Kitaptaki önemli başlıklardan bazıları şunlardır:
- 
-·       Algoritma ve Programlama Kavramları
-·       Yazılım Geliştirme Süreci
-·       Programlama Süreci
-·       Algoritma Nedir? Nasıl Oluşturulur?
-·       Python Programlama Dili
-·       Python Kurulumu
-·       Komutlarla Çalışma
-·       Temel Veri Tipleri ve Değişkenler
-·       Metinlerle Çalışma
-·       Sayılarla Çalışma
-·       Tarih ve Zaman ile Çalışma
-·       Listeler, Demetler ve Kümelerle Çalışma
-·       Koşul Yapıları
-·       Döngüler
-·       Sözlük Yapılarıyla Çalışma
-·       Fonksiyon Yazma
-·       Hata Denetimi
-·       Temel Dosya İşlemleri
-·       Temel Arama ve Sıralama Algoritmaları
-·       Örnek Problemlerle Temel Algoritmalar (22 Adet)
-·       Çözümlü Alıştırmalı (21 Adet)
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------
 
 
--4-
-PYTHON ile ALGORİTMA ve PROGRAMLAMA
-KUBİLAY ERKEÇ 2023 240 TL
-https://www.kodlab.com/ana-sayfa/641-python-ile-algoritma-ve-programlama-9786257440547.html
-www.kodlab.com/pdfviewer.php?file=https://kodlab.com/kitaponizleme/9786257440547.pdf
-https://www.youtube.com/watch?v=9Nw-M138M9g&list=PL3Z9GcBKYIFDc_Ki3_J8y1swX03OQNAul&index=1
-
-Programlamaya Giriş
-Problemler ve Çözüm Yöntemleri
-Yazılım Yaşam Döngüsü
-Algoritma Hazırlama
-Gerçek Hayattan Algoritma Örnekleri
-Akış Diyagramı Nasıl Oluşturulur?
-Neden Python?
-Bilgisayara Python IDE Kurulumu
-Python ile Veri Tipleri
-Kullanıcı ile Etkileşim
-Sayılar ve Aritmetik İşlemler
-Koşullu İşlemlerin Mantığı
-Python ile Döngüler
-Python ile Karakter Dizileri
-Karakter Dizisi Metotları
-Listeler ve Demetler
-Python Liste Metotları
-Python Demet Metotları
-Python ile Fonksiyon Mantığı
-Python ile Projeler
-
-(yukarıda set ve dict yok mu?)
-
-
--5-
+- 5 ------------------------------------------------------------------------------------
 C C++ ve Java Dilleriyle Algoritma ve Programlama
 Bülent Çobanoğlu 7. Baskı 311 TL Abaküs Kitap
 (5. Baskı 2020 imiş)
 https://www.abakuskitap.com/urun/c-c-ve-java-dilleriyle-algoritma-ve-programlama-egitim-videolu
 
 
-
--6-
+- 6 -------------------------------------------------------------------------------------
 Algoritma Geliştirme ve Programlamaya Giriş
 Prof. Dr. Fahri Vatansever
 16. Baskı, Eylül 2025 Kitabın Fiyatı: 835,00₺
