@@ -10,6 +10,21 @@ www.btkakademi.gov.tr/portal/catalog?categoryId=353,951&st=python
 Yeni Başlayanlar için Python Programlama (Talat Çetin)
 www.btkakademi.gov.tr/portal/course/yeni-baslayanlar-icin-python-programlama-26252
 
+---
+Ders Kitabımız yukarıdaki kitaptır.
+
+Bu yukarıdaki ders kitabını, aşağıdaki online video ders de ders kitabı olarak kullanmıştır.
+
+BTK Akademi (1 Milyon İstihdam Projesi)
+
+Ders: Yeni Başlayanlar için Python Programlama, Talat Çetin
+https://www.btkakademi.gov.tr/portal/course/yeni-baslayanlar-icin-python-programlama-26252
+
+Ders Kitabı: Yeni Başlayanlar için Python Programlama, Bülent Çobanoğlu
+
+IDLE
+---
+
 Python ile Programlamaya Giriş (Zafer Cömert)
 www.btkakademi.gov.tr/portal/course/python-ile-programlamaya-giris-55951
 
