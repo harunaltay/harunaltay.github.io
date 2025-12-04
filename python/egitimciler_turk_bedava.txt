@@ -1,0 +1,70 @@
+Eğitimciler Türkçe Bedava
+
+
+BTK Akademi ve 1 Milyon İstihdam Sistemi 
+
+1milyonistihdam.hmb.gov.tr
+https://www.btkakademi.gov.tr/portal
+https://www.btkakademi.gov.tr/portal/catalog?categoryId=353,951&st=python
+
+Yeni Başlayanlar için Python Programlama (Talat Çetin)
+https://www.btkakademi.gov.tr/portal/course/yeni-baslayanlar-icin-python-programlama-26252
+
+Python ile Programlamaya Giriş (Zafer Cömert)
+https://www.btkakademi.gov.tr/portal/course/python-ile-programlamaya-giris-55951
+
+Sıfırdan İleri Seviye Python Programlama (Sadık Turan)
+https://www.btkakademi.gov.tr/portal/course/sifirdan-ileri-seviye-python-programlama-5877
+
+Python Programlama Dili (Sadık Turan)
+https://www.btkakademi.gov.tr/portal/course/python-programlama-dili-29055
+
+İleri Seviye Python Programlama Dili (Sadık Turan)
+https://www.btkakademi.gov.tr/portal/course/ileri-seviye-python-programlama-dili-30852
+
+----------------------------------------------------------------------------------------
+
+
+www.kodluyoruz.org
+
+academy.patika.dev/paths
+
+Python Temel
+academy.patika.dev/courses/python-temel
+
+İleri Python
+academy.patika.dev/courses/ileri-python
+
+Jupyter Notebook
+academy.patika.dev/courses/jupyter-notebook
+----------------------------------------------------------------------------------------
+
+
+Harvard’s CS50 programs
+https://www.edx.org/cs50
+
+HarvardX: CS50's Introduction to Programming with Python
+https://www.edx.org/learn/python/harvard-university-cs50-s-introduction-to-programming-with-python
+
+Bu ders ingilizce
+
+----------------------------------------------------------------------------------------
+
+
+gelecegiyazanlar.turkcell.com.tr
+
+İleri Python
+gelecegiyazanlar.turkcell.com.tr/egitimler/ileri-python
+
+----------------------------------------------------------------------------------------
+
+
+yokdersleri.yok.gov.tr
+https://yokdersleri.yok.gov.tr/#ders
+( -> Teknik Bilimler Meslek Yüksek Okulu -> Bilgisayar Progrmcılığı )
+
+Görsel Programlama 1 indirilemiyor, 2 var indi
+
+Nesne Tabanlı Programlama 1 ve 2 indirilemiyor
+
+
