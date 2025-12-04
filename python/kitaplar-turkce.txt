@@ -28,6 +28,20 @@ https://www.pusulakitaplik.com/cocuklar-icin-python
 • Turtle ile Çizim Uygulamaları
 • Olay Tabanlı Projeler ve Yılan Oyunu
 
+---
+
+Ders Kitabımız yukarıdaki kitaptır.
+
+Bu yukarıdaki ders kitabını, aşağıdaki online video ders de ders kitabı olarak kullanmıştır.
+
+BTK Akademi (1 Milyon İstihdam Projesi)
+
+Ders: Yeni Başlayanlar için Python Programlama, Talat Çetin
+https://www.btkakademi.gov.tr/portal/course/yeni-baslayanlar-icin-python-programlama-26252
+
+Ders Kitabı: Yeni Başlayanlar için Python Programlama, Bülent Çobanoğlu
+
+IDLE (hem kitapta, hem de online video dersinde kullanılmıştır)
 
 -------------------------------------------------------------------------------------------
 
