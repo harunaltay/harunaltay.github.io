@@ -21,13 +21,10 @@
     <p>Google: <br>
       Bu aşağıdakilerin hepsini ve daha fazlasını Google'den arayıp
       bulabilirsiniz.<br>
-      <br>
-      Bilgisayar Programlama ve Dilleri ve <br>
-      Python Dili<br>
-      <br>
-      web sayfamdaki eski visio buraya uyar<br>
-      internetten buraya görsel bul<br>
-      <br>
+    </p>
+    <p>Google (images): </p>
+    <p>Software and Hardware Types</p>
+    <p>Bilgisayar Programlama ve Dilleri ve Python Dili<br>
       <br>
 -------------------------------------------------------------------------------<br>
       --- Programlama Dilleri Sıralamaları
@@ -46,16 +43,42 @@
       https://www.tiobe.com/tiobe-index/<br>
       <br>
       https://redmonk.com/sogrady/2025/06/18/language-rankings-1-25/<br>
+    </p>
+    <p>---------------------------------------------------------------------------------------------------------------</p>
+    <p>Ders Kitabı: Yeni Başlayanlar için Python Programlama, Bülent Çobanoğlu<br>
+      Ders Kitabımız yukarıdaki kitaptır.<br>
       <br>
--------------------------------------------------------------------------------<br>
+      Bu yukarıdaki ders kitabını, aşağıdaki online video ders de ders kitabı
+      olarak kullanmıştır.<br>
       <br>
-https://miro.medium.com/v2/resize:fit:720/format:webp/1*mGoThqiR2gd4HzNiltptMw.png</p>
+      BTK Akademi (1 Milyon İstihdam Projesi)<br>
+      <br>
+      Ders: Yeni Başlayanlar için Python Programlama, Talat Çetin<br>
+https://www.btkakademi.gov.tr/portal/course/yeni-baslayanlar-icin-python-programlama-26252<br>
+      <br>
+      IDLE (hem kitapta, hem de online video dersinde kullanılmıştır) </p>
+    <p>-------------------------------------------------------------------------------</p>
+    <a href="Kitaplar-rar-Turkce.rar" title="Türkçe Kitaplar" target="_blank">Türkçe
+      Elektronik Kitaplar</a><br>
+    <p><a href="Kitaplar-rar-ing.rar" target="_blank" title="Kitaplar ingilizce">İngilizce
+        Elektronik Kitaplar</a><br>
+    </p>
+    <p> </p>
+    <p>-------------------------------------------------------------------------------</p>
+    <p><a href="_Ayarlar-ve-Yuklemeler.html" title="Ayarlar ve Yüklemeler" target="_blank">Bilgisayarınızda
+        Yüklemeler ve Ayarlamalar (Python Dışı)<br>
+      </a></p>
+    <p> (_Ayarlar-ve-Yuklemeler.html)</p>
+    <p>-------------------------------------------------------------------------------
+    </p>
+    <p>https://miro.medium.com/v2/resize:fit:720/format:webp/1*mGoThqiR2gd4HzNiltptMw.png</p>
     <p>-------------------------------------------------------------------------------<br>
       --- Yüklemeler ve Merhaba Dünyalar ---------------------------------<br>
 -------------------------------------------------------------------------------</p>
     <p><a href="install-merhaba-dunya.html" title="Yüklemeler ve Merhaba Dünyalar "
-        target="_blank">Yüklemeler ve Merhaba Dünyalar</a> </p>
-    <p><br>
+        target="_blank">Yüklemeler ve Merhaba Dünyalar (Python)</a> </p>
+    <p>(install-merhaba-dunya.html)</p>
+    <p>
 -------------------------------------------------------------------------------<br>
       --- Python Tutorial
       -----------------------------------------------------------<br>
