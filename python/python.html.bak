@@ -11,6 +11,14 @@
     son güncelleme:&nbsp;&nbsp; 2025 12 09 &nbsp; 14:00<br>
     <br>
     <p> <b>Python Müfredat</b></p>
+    <p><br>
+    </p>
+    <p>Dersin Kitabı:&nbsp;&nbsp; <a href="Ders_Kitabi_Cocuklar_icin_Python.html"
+        target="_blank">Çocuklar için Python, Bülent Çobanoğlu, Pusula Yayınları</a>
+    </p>
+    <p>Dersin Online Videosu (parasız):&nbsp;&nbsp; <a href="https://www.btkakademi.gov.tr/portal/course/yeni-baslayanlar-icin-python-programlama-26252"
+        target="_blank">https://www.btkakademi.gov.tr/portal/course/yeni-baslayanlar-icin-python-programlama-26252</a></p>
+    <p> </p>
     <br>
     Google:<br>
     Bu aşağıdakilerin hepsini ve daha fazlasını Google'den arayıp
@@ -42,8 +50,8 @@
     <p><br>
     </p>
     <p>-------------------------------------------------------------------------------<br>
-      --- <a href="algoritma.html" target="_blank">Ders 1. Algoritma ve Akış
-        Şemaları</a><br>
+      --- <a href="Ders1_Algoritma_ve_Akis_Semalari.html" target="_blank">Ders
+        1. Algoritma ve Akış Şemaları</a><br>
 -------------------------------------------------------------------------------<br>
       <br>
       <br>
@@ -52,9 +60,7 @@
 -------------------------------------------------------------------------------</p>
     <p><br>
     </p>
-    <p>---</p>
-    <p><br>
-    </p>
+    <p>-------</p>
     <p><a href="install-merhaba-dunya.html" title="Yüklemeler ve Merhaba Dünyalar"
         target="_blank">Yüklemeler ve<br>
         Merhaba Dünyalar</a></p>
@@ -68,7 +74,8 @@
 -------------------------------------------------------------------------------</p>
     <p><br>
 -------------------------------------------------------------------------------<br>
-      --- Ders 3. Değişkenler ve Hesaplar<br>
+      --- <a href="Ders3_Degiskenler_ve_Hesaplar.html" target="_blank">Ders 3.
+        Değişkenler ve Hesaplar</a><br>
 -------------------------------------------------------------------------------</p>
     <p>Değişkenler isimlendirme kuralları ve<br>
       Temel Veri Tipleri<br>

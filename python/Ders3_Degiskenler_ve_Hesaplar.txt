@@ -1,0 +1,25 @@
+
+
+
+Değişkenler isimlendirme kuralları ve
+Temel Veri Tipleri
+(int, float, str, bool)
+Tip Değiştirme (Casting)
+
+Yorum Comment Satırı ve Bloğu
+
+Temel Sayısal Veri Tipleri üzerinde İşlemler
+(Operators, +  -  *  /  //  %  **)
+Python'u Hesap Makinesi Olarak Kullanma
+
+Atama Operatörleri (=, +=, -=, *=, /=, %=, //=)
+
+Boolean Tipi Üzerinde İşlemler - Karşılaştırma Operatörleri
+(Operators, <  >  <=  >=  =! ==)
+
+(in, not in)
+
+
+OOP'ye çok ön bir giriş
+Hazır class/obje'leri kullanma, string, date, math, int, float, bool gibi
+
